@@ -65,3 +65,7 @@
 * [WIP - CRM refresh](wip/wip-crm-refresh.md)
 * [Commissions Payouts](wip/commissions-payouts.md)
 * [Sales Forms](wip/sales-forms.md)
+
+## 💰 Pricing
+
+* [Select pricing strategy](pricing/select-pricing-strategy.md)
