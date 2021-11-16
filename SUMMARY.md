@@ -40,6 +40,11 @@
     * [Session #2 - What is SSO?](sales-process/collaterals/weekly-technical-session/session-2-gitbook-vs.-competitors-pricing.md)
     * [Session #3 - Visitor Auth](sales-process/collaterals/weekly-technical-session/session-3-visitor-auth.md)
 
+## 💰 Pricing
+
+* [Select pricing strategy](pricing/select-pricing-strategy/README.md)
+  * [Tiered pricing](pricing/select-pricing-strategy/tiered-pricing.md)
+
 ## ⚽ Playbook
 
 * [Ideal Customer Profile](playbook/ideal-customer-profile.md)
@@ -65,7 +70,3 @@
 * [WIP - CRM refresh](wip/wip-crm-refresh.md)
 * [Commissions Payouts](wip/commissions-payouts.md)
 * [Sales Forms](wip/sales-forms.md)
-
-## 💰 Pricing
-
-* [Select pricing strategy](pricing/select-pricing-strategy.md)
