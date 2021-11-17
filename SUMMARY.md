@@ -67,6 +67,7 @@
 
 ## WIP
 
+* [Register as a vendor](wip/register-as-a-vendor.md)
 * [Order Form Proces](wip/page-1.md)
 * [WIP - CRM refresh](wip/wip-crm-refresh.md)
 * [Commissions Payouts](wip/commissions-payouts.md)
