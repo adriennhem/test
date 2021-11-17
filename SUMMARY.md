@@ -44,6 +44,7 @@
 
 * [Select pricing strategy](pricing/select-pricing-strategy/README.md)
   * [Tiered pricing](pricing/select-pricing-strategy/tiered-pricing.md)
+  * [Platform fee](pricing/select-pricing-strategy/platform-fee.md)
 
 ## ⚽ Playbook
 

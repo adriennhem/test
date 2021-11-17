@@ -1,5 +1,7 @@
 # Tiered pricing
 
+## Pricing
+
 * You will find the tiered pricing in the "tiered pricing" tab.&#x20;
 * You should reach out to the Head of Sales if you have any doubt about pricing.&#x20;
 * When pricing, you must stay above the the pricing per seat defined on row 7 or row 10. You are free to charge prospects more than the defined pricing. Further discounts must be approved by the Head of Sales.&#x20;
