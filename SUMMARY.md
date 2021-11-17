@@ -14,7 +14,6 @@
 
 ## 🚀 Team Stuffs
 
-* [Team Structure](team-stuffs/team-structure.md)
 * [Meetings](team-stuffs/meetings.md)
 * [Requesting holidays](team-stuffs/requesting-holidays.md)
 
