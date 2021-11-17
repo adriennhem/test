@@ -12,11 +12,6 @@
 * [August 21](monthly-updates/august-21.md)
 * [DRAFT - September 2021](monthly-updates/draft-september-2021.md)
 
-## 🚀 Team Stuffs
-
-* [Meetings](team-stuffs/meetings.md)
-* [Requesting holidays](team-stuffs/requesting-holidays.md)
-
 ## 📊 Sales Process
 
 * [What is a deal](sales-process/what-is-a-deal.md)
