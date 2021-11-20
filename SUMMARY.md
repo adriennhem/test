@@ -2,16 +2,6 @@
 
 * [Overview](README.md)
 
-## 🎯 Objectives
-
-* [Sales Strategy - S2/2021](objectives/sales-strategy-s2-2021.md)
-* [Reporting on goals](objectives/reporting-on-goals.md)
-
-## 📰 Monthly Updates
-
-* [August 21](monthly-updates/august-21.md)
-* [DRAFT - September 2021](monthly-updates/draft-september-2021.md)
-
 ## 📊 Sales Process
 
 * [What is a deal](sales-process/what-is-a-deal.md)
