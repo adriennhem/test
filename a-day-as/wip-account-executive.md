@@ -1,4 +1,4 @@
-# A day in Sales
+# WIP - Account Executive
 
 TODO: add a diagram that shows a typical day in sales.
 

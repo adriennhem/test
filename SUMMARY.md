@@ -2,6 +2,11 @@
 
 * [Overview](README.md)
 
+## 🤩 A day as
+
+* [WIP - Account Executive](a-day-as/wip-account-executive.md)
+* [WIP - Sales Development Rep](a-day-as/wip-sales-development-rep.md)
+
 ## ⚽ Playbook
 
 * [Segmentation](playbook/segmentation/README.md)
@@ -11,46 +16,39 @@
   * [Identify buyers & champions](playbook/segmentation/identify-buyers-and-champions.md)
 * [Ideal Customer Profile](playbook/ideal-customer-profile.md)
 * [Notable Customers](playbook/notable-customers.md)
-* [Customer Pocket Stories](playbook/customer-pocket-stories.md)
 * [Collaterals](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/AOUfQkzsCPkwC0S4bvuT/)
 
 ## 📊 Sales Process
 
+* [WIP - Sales Inputs](sales-process/wip-sales-inputs/README.md)
+  * [Old - Sales Forms](sales-process/wip-sales-inputs/sales-forms.md)
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of Engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
 * [Sales Process](sales-process/sales-process/README.md)
   * [Deal Qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery Call](sales-process/sales-process/discovery-call-checklist.md)
-* [Collaterals](sales-process/collaterals/README.md)
-  * [SWOT](sales-process/collaterals/swot/README.md)
-    * [Notion](sales-process/collaterals/swot/notion.md)
-    * [Readme](sales-process/collaterals/swot/readme.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 
 ## 💰 Pricing
 
-* [Select pricing strategy](pricing/select-pricing-strategy/README.md)
-  * [Tiered pricing](pricing/select-pricing-strategy/tiered-pricing.md)
-  * [Platform fee](pricing/select-pricing-strategy/platform-fee.md)
+* [Selecting pricing strategy](pricing/selecting-pricing-strategy/README.md)
+  * [Tiered pricing](pricing/selecting-pricing-strategy/tiered-pricing.md)
+  * [Platform fee](pricing/selecting-pricing-strategy/platform-fee.md)
   * [True-up](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/LFHtq7DWFucFbvEMnnCn/)
-* [Sending quotes](pricing/quotes.md)
+* [UPDATE - Sending quotes](pricing/quotes.md)
+* [WIP - Emailing the quote](pricing/wip-emailing-the-quote.md)
 
 ## 🤝 procurement
 
-* [Order Forms](procurement/page-1.md)
-* [Register as a vendor](procurement/register-as-a-vendor.md)
-* [Invoicing](procurement/invoicing.md)
+* [UPDATE - Order Forms](procurement/page-1.md)
+* [Registering as a vendor](procurement/registering-as-a-vendor.md)
+* [UPDATE - Invoicing](procurement/invoicing.md)
+* [OLD - Upgrading Account](procurement/upgrading-account.md)
 
 ## 🛩Onboarding <a href="onboarding-1" id="onboarding-1"></a>
 
 * [Onboarding](onboarding-1/onboarding/README.md)
   * [Tooling](onboarding-1/onboarding/page-1.md)
-  * [A day in Sales](onboarding-1/onboarding/page-1-1.md)
 * [Start, Stop, Continues](onboarding-1/untitled/README.md)
   * [Account Executive](onboarding-1/untitled/mark.md)
-
-## WIP
-
-* [Sales Forms](wip/sales-forms.md)
-* [Upgrading Account](wip/upgrading-account.md)

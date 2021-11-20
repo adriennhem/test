@@ -1,2 +1,0 @@
-# Customer Pocket Stories
-
