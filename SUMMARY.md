@@ -51,11 +51,6 @@
 * [Start, Stop, Continues](onboarding-1/untitled/README.md)
   * [Account Executive](onboarding-1/untitled/mark.md)
 
-## 📉 Reporting
-
-* [Responsibilities](reporting/page-1.md)
-* [Tagging deals](reporting/tagging-deals-in-chartmogul.md)
-
 ## WIP
 
 * [Register as a vendor](wip/register-as-a-vendor.md)
