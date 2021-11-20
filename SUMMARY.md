@@ -38,8 +38,7 @@
 
 ## 🤝 procurement
 
-* [Page 1](procurement/page-1.md)
-* [Order Forms](procurement/page-1-1.md)
+* [Order Forms](procurement/page-1.md)
 * [Register as a vendor](procurement/register-as-a-vendor.md)
 * [Invoicing](procurement/invoicing.md)
 
