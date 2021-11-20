@@ -26,10 +26,6 @@
   * [SWOT](sales-process/collaterals/swot/README.md)
     * [Notion](sales-process/collaterals/swot/notion.md)
     * [Readme](sales-process/collaterals/swot/readme.md)
-  * [Weekly Technical Session](sales-process/collaterals/weekly-technical-session/README.md)
-    * [Session #1 - Docusaurus](sales-process/collaterals/weekly-technical-session/session-1-build-vs-buy.md)
-    * [Session #2 - What is SSO?](sales-process/collaterals/weekly-technical-session/session-2-gitbook-vs.-competitors-pricing.md)
-    * [Session #3 - Visitor Auth](sales-process/collaterals/weekly-technical-session/session-3-visitor-auth.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 
 ## 💰 Pricing
@@ -43,7 +39,7 @@
 ## 🤝 procurement
 
 * [Page 1](procurement/page-1.md)
-* [Order Form Proces](procurement/page-1-1.md)
+* [Order Forms](procurement/page-1-1.md)
 * [Register as a vendor](procurement/register-as-a-vendor.md)
 * [Invoicing](procurement/invoicing.md)
 
