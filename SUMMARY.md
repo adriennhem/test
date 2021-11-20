@@ -29,6 +29,7 @@
 * [Select pricing strategy](pricing/select-pricing-strategy/README.md)
   * [Tiered pricing](pricing/select-pricing-strategy/tiered-pricing.md)
   * [Platform fee](pricing/select-pricing-strategy/platform-fee.md)
+  * [True-up](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/LFHtq7DWFucFbvEMnnCn/)
 
 ## ⚽ Playbook
 
