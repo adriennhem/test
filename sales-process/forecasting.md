@@ -12,7 +12,7 @@
 ## Submit a forecast
 
 {% hint style="success" %}
-You have to submit your forecast **on the first day of each month**.
+You have to submit your forecast **every week before the pipeline review**
 {% endhint %}
 
 You can submit a custom forecast for the month or quarter to give your stakeholders an estimate of how much you think you'll close during that time.
