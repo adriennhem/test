@@ -56,6 +56,7 @@
   * [Top free and/or trial accounts](wip/segmentation/top-free-and-or-trial-accounts.md)
   * [Top self-serve paid accounts](wip/segmentation/top-self-serve-paid-accounts.md)
   * [Top enterprise accounts](wip/segmentation/top-enterprise-accounts.md)
+  * [Identify buyers & champions](wip/segmentation/identify-buyers-and-champions.md)
 * [Register as a vendor](wip/register-as-a-vendor.md)
 * [Order Form Proces](wip/page-1.md)
 * [WIP - CRM refresh](wip/wip-crm-refresh.md)
