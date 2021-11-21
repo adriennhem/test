@@ -1,4 +1,4 @@
-# Register as a vendor
+# Registering as a vendor
 
 ## What is it?
 
@@ -48,3 +48,7 @@ As an Account Executive or a Customer Success Managers, you can register GitBook
 * Is there an auto-renewal for subscription: yes
 * What is the cancelation period: at least 30 days before the end of the contract
 * How to cancel: send cancellation email to sales@gitbook.com
+
+## W9
+
+{% file src="../.gitbook/assets/gitbook-w9-2020_tin_.pdf" %}
