@@ -37,7 +37,7 @@
   * [Platform fee](pricing/selecting-pricing-strategy/platform-fee.md)
   * [True-up](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/LFHtq7DWFucFbvEMnnCn/)
 * [UPDATE - Sending quotes](pricing/quotes.md)
-* [WIP - Emailing the quote](pricing/wip-emailing-the-quote.md)
+* [Emailing the quote](pricing/emailing-the-quote.md)
 
 ## 🤝 procurement
 
