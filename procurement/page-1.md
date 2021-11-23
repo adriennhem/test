@@ -5,29 +5,23 @@ description: >-
   Customer relevant to the Software as a Service
 ---
 
-# Order Form Proces
+# Order Forms
 
+## Create an order form
 
+1. Visit a deal in Hubspot.&#x20;
+2. You will find the Pandadoc widget on the right sidebar.&#x20;
+3. Click on **Create Document.**
+4. Select the \[Customer Name] template.
+5. Make sure you have the correct recipient selected.
+6. Click **Start Editing**. You will be redirected to Pandadoc.
 
-{% hint style="info" %}
-* What is the process for the order form.
-* Fields to be completed by the buyer.
-* Fields to be completed by GitBook.&#x20;
-* Things that should not be changed.&#x20;
-* Trade offs.
-* Line items to use.
-* Email template to send to the buyer. Should be added to Hubspot.
-* Document settings.
-{% endhint %}
+![3](<../.gitbook/assets/Screenshot 2021-11-23 at 16.48.36.png>) ![4](<../.gitbook/assets/Screenshot 2021-11-23 at 16.52.39.png>) ![](<../.gitbook/assets/Screenshot 2021-11-23 at 16.54.58.png>)
 
-## Document Settings
+## Editing the order form
 
-* Make sure that the title of the document has the name of the customer.&#x20;
-* Customer information fields must be completed by the buyer.
-* By default the payment terms are&#x20;
-* Make sure to edit the date of the order form before it is sent to the users.&#x20;
-
-## Process
-
-* Once you have filled the document you should send it to&#x20;
+* You should only input data in the **Effective Date** and the **Date** field below Samy's signature.&#x20;
+* Update the Service and Fees accordingly. You should click on the table and then click on add a product at the bottom.&#x20;
+* Never modify the wording in the order form without talking to Adrien first.&#x20;
+* Send for approval once you are done editing the doc.&#x20;
 

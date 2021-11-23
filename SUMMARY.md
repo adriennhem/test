@@ -41,7 +41,7 @@
 
 ## 🤝 procurement
 
-* [UPDATE - Order Forms](procurement/page-1.md)
+* [Order Forms](procurement/page-1.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
 * [UPDATE - Invoicing](procurement/invoicing.md)
 * [OLD - Upgrading Account](procurement/upgrading-account.md)
