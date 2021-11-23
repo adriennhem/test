@@ -36,15 +36,14 @@
   * [Tiered pricing](pricing/selecting-pricing-strategy/tiered-pricing.md)
   * [Platform fee](pricing/selecting-pricing-strategy/platform-fee.md)
   * [True-up](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/LFHtq7DWFucFbvEMnnCn/)
-* [UPDATE - Sending quotes](pricing/quotes.md)
+* [Sending quotes](pricing/quotes.md)
 * [Emailing the quote](pricing/emailing-the-quote.md)
 
 ## 🤝 procurement
 
 * [Order Forms](procurement/page-1.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
-* [UPDATE - Invoicing](procurement/invoicing.md)
-* [OLD - Upgrading Account](procurement/upgrading-account.md)
+* [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/customer-lifecycle/internal-handoff)
 
 ## 🛩Onboarding <a href="onboarding-1" id="onboarding-1"></a>
 
