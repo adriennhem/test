@@ -20,8 +20,6 @@
 
 ## 📊 Sales Process
 
-* [WIP - Sales Inputs](sales-process/wip-sales-inputs/README.md)
-  * [Old - Sales Forms](sales-process/wip-sales-inputs/sales-forms.md)
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of Engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
