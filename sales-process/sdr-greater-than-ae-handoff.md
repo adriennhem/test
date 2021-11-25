@@ -18,8 +18,6 @@ Prospect: A person who expresses interest online.
 
 MQL: Marketing Qualified Lead, a person who expresses interest during the sales process.
 
-SQL: Sales Qualified Lead, is a Marketing Qualified Lead (MQL) that has been reviewed and passed to the sales team for approval.
+SQL: Sales Qualified Lead, a person who expresses interest during the sales process.
 
-
-
-Criteria can be static, such as company size. They can be time-driven, such as an&#x20;
+SAL: Sales Accepted Lead, is a Marketing Qualified Lead (MQL) that has been reviewed and passed to the sales team for approval.
