@@ -1,10 +1,6 @@
 # SDR > AE Handoff
 
-**How we qualify prospects**
-
-Two ways: by email or by call.
-
-Goal: to qualify the opportunity and remove as much friction as possible. We do not want to add steps to the sales process/sales experience just to say we qualified a prospect. If we can qualify them and pass them to an AE without speaking to them, that's fine as well.
+****
 
 **What is a qualified opportunity**
 
@@ -46,25 +42,25 @@ SDR responsibilities
 
 Change Contact's **Lifecycle Stage** property to: Sales qualified opportunity
 
-![](<../.gitbook/assets/Lifecycle stage.png>)
+![](<../../.gitbook/assets/Lifecycle stage.png>)
 
 Change Meeting Outcome to "Scheduled"
 
-![](../.gitbook/assets/Outcome.png)
+![](../../.gitbook/assets/Outcome.png)
 
 AE responsibilities:
 
 Change Contact's **Lifecycle Stage** property to: Opportunity
 
-![](<../.gitbook/assets/Lifecycle stage (1).png>)
+![](<../../.gitbook/assets/Lifecycle stage (1).png>)
 
 If demo completed, change Meeting Outcome to "Completed".
 
-![](<../.gitbook/assets/Outcome (1).png>)
+![](<../../.gitbook/assets/Outcome (1).png>)
 
 If demo is a no show, change Meeting Outcome to "No Show."
 
-![](<../.gitbook/assets/Outcome (2).png>)
+![](<../../.gitbook/assets/Outcome (2).png>)
 
 2\. SDR Introduces AE by email
 
