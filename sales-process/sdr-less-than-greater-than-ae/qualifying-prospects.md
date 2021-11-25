@@ -9,3 +9,8 @@ _SDRs can qualify prospects by email communication or by scheduling a 15-minute 
 {% hint style="success" %}
 **Goal**: to qualify the opportunity and remove as much friction as possible. We do not want to add steps to the sales process/sales experience just to say we qualified a prospect. If we can qualify them and pass them to an AE without speaking to them, that's fine as well.
 {% endhint %}
+
+### Some qualification question ideas for SDRs to ask:
+
+* How many users will you have using GitBook internally? Reader, Editor and Admin access. (not external readers).
+* What is your use case? What type of documentation are you trying to build/create or migrate?
