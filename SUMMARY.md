@@ -23,6 +23,7 @@
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of Engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
+* [SDR > AE Handoff](sales-process/sdr-greater-than-ae-handoff.md)
 * [Sales Process](sales-process/sales-process/README.md)
   * [Deal Qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery Call](sales-process/sales-process/discovery-call-checklist.md)
