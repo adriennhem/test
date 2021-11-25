@@ -1,4 +1,8 @@
-# How we qualify prospects
+---
+description: How do we qualify prospects
+---
+
+# Qualifying prospects
 
 _SDRs can qualify prospects by email communication or by scheduling a 15-minute call with them._
 

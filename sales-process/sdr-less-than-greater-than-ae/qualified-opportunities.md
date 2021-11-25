@@ -1,8 +1,8 @@
-# SDR > AE Handoff
+---
+description: What is a qualified opportunity
+---
 
-****
-
-**What is a qualified opportunity**
+# Qualified opportunities
 
 _Potential Enterprise deals or deals that can grow into an Enterprise account._
 
@@ -33,41 +33,3 @@ Some qualification question ideas for SDRs to ask:
 
 * How many users will you have using GitBook internally? Reader, Editor and Admin access. (not external readers).
 * What is your use case? What type of documentation are you trying to build/create or migrate?
-
-**SDR > AE Handoff**
-
-1. Hubspot CRM
-
-SDR responsibilities
-
-Change Contact's **Lifecycle Stage** property to: Sales qualified opportunity
-
-![](<../../.gitbook/assets/Lifecycle stage.png>)
-
-Change Meeting Outcome to "Scheduled"
-
-![](../../.gitbook/assets/Outcome.png)
-
-AE responsibilities:
-
-Change Contact's **Lifecycle Stage** property to: Opportunity
-
-![](<../../.gitbook/assets/Lifecycle stage (1).png>)
-
-If demo completed, change Meeting Outcome to "Completed".
-
-![](<../../.gitbook/assets/Outcome (1).png>)
-
-If demo is a no show, change Meeting Outcome to "No Show."
-
-![](<../../.gitbook/assets/Outcome (2).png>)
-
-2\. SDR Introduces AE by email
-
-\-email template pending
-
-3\. Set up Zoom meeting / Send Calendly&#x20;
-
-\-meeting template pending
-
-Title: AE name <> Prospect name | GitBook Demo, or GitBook pricing call
