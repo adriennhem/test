@@ -14,6 +14,8 @@ _Potential Enterprise deals or deals that can grow into an Enterprise account._
 
 They have a compelling event. (Do they existing docs on their website? Are they building documentation that you can see from SN10 or Amplitude? Have they mentioned a reason they are evaluating GitBook to you?)
 
+High Product Usage (if they are using GitBook heavily, building lots of docs)
+
 _Some examples include_
 
 * Need to create an internal knowledge base
@@ -29,7 +31,7 @@ Pass directly to an AE if:
 * Need any enterprise features, SAML SSO or Visitor Authentication (even if they say they only need 5+ users or they're smaller <50 people company)
 * If they ask for Enterprise pricing or Invoicing.
 
-(If you're not sure, ask an AE if you should pass it.)
+(If you're not sure, ask an AE if you should pass it or do a call with the prospect as an SDR to make sure)
 
 Some qualification question ideas for SDRs to ask:
 
@@ -38,7 +40,7 @@ Some qualification question ideas for SDRs to ask:
 
 **SDR > AE Handoff**
 
-Hubspot CRM
+1. Hubspot CRM
 
 SDR responsibilities
 
@@ -46,47 +48,30 @@ Change Contact's **Lifecycle Stage** property to: Sales qualified opportunity
 
 ![](<../.gitbook/assets/Lifecycle stage.png>)
 
-Introduce AE by email
+Change Meeting Outcome to "Scheduled"
 
-\-email template
+![](../.gitbook/assets/Outcome.png)
 
-Set up Zoom meeting
+AE responsibilities:
 
-\-meeting template\
+Change Contact's **Lifecycle Stage** property to: Opportunity
 
+![](<../.gitbook/assets/Lifecycle stage (1).png>)
 
-\
+If demo completed, change Meeting Outcome to "Completed".
 
+![](<../.gitbook/assets/Outcome (1).png>)
 
-\
+If demo is a no show, change Meeting Outcome to "No Show."
 
+![](<../.gitbook/assets/Outcome (2).png>)
 
-AEs to have demos
+2\. SDR Introduces AE by email
 
-Pass everything
+\-email template pending
 
-\
+3\. Set up Zoom meeting / Send Calendly&#x20;
 
+\-meeting template pending
 
-50+ users
-
-High product usage
-
-Right ICP
-
-Right use case
-
-Employee size:&#x20;
-
-Compelling/critical event
-
-eg. Gather all docs, starting docs now, we use notion doesn’t work for us cuz we technical \
-
-
-Removing as much friction as possible\
-
-
-If you are not sure, do a call with them as an SDR\
-
-
-SDRs to focus on input not output
+Title: AE name <> Prospect name | GitBook Demo, or GitBook pricing call
