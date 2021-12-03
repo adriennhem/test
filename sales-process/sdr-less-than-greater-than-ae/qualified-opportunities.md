@@ -30,6 +30,14 @@ When doing research on prospects, emailing them, speaking to them on a call, etc
 SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified and pass to an AE.
 {% endhint %}
 
+### Instantly qualified! Pass directly to an AE if:
+
+* Number of internal users needed is above 15
+* Need any enterprise features, SAML SSO or Visitor Authentication (even if they say they only need 5+ users or they're smaller <50 people company)
+* If they ask for Enterprise pricing or Invoicing.
+
+(If you're not sure, ask an AE if you should pass it or do a call with the prospect as an SDR to make sure)
+
 #### _Some examples of typically qualified customers include:_
 
 * Need to create an internal knowledge base
@@ -39,13 +47,7 @@ SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified 
 * They use a competitor like Notion and it doesn’t work for them cause they need something for technical teams/technical documentation.
 * They use Confluence, ReadMe, Archbee, Document360, Docusaurus or other direct competitors.
 
-### Instantly qualified! Pass directly to an AE if:
-
-* Number of internal users needed is above 15
-* Need any enterprise features, SAML SSO or Visitor Authentication (even if they say they only need 5+ users or they're smaller <50 people company)
-* If they ask for Enterprise pricing or Invoicing.
-
-(If you're not sure, ask an AE if you should pass it or do a call with the prospect as an SDR to make sure)
+###
 
 ## What happens to unqualified prospects?
 
