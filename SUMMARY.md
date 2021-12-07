@@ -23,6 +23,9 @@
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of Engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
+* [Sales Inputs](sales-process/sales-inputs/README.md)
+  * [Sales Forms](sales-process/sales-inputs/sales-forms.md)
+  * [WIP - Sales Forms Process](sales-process/sales-inputs/wip-sales-forms-process.md)
 * [SDR <> AE 🤝](sales-process/sdr-greater-than-ae-handoff.md)
   * [Qualifying prospects](sales-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [Qualified opportunities](sales-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
@@ -47,7 +50,7 @@
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
 * [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/customer-lifecycle/internal-handoff)
 
-## 🛩Onboarding <a href="onboarding-1" id="onboarding-1"></a>
+## 🛩Onboarding <a href="#onboarding-1" id="onboarding-1"></a>
 
 * [Onboarding](onboarding-1/onboarding/README.md)
   * [Tooling](onboarding-1/onboarding/page-1.md)

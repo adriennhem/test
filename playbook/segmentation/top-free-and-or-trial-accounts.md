@@ -10,7 +10,7 @@
 
 ## Sales Strategy
 
-**Land high value logos from self-service signups. **Pick out the best logos by using Clearbit from the self-service funnel to engage with. Given relationships are typically not established at this stage, this is often a segment ripe with unclaimed, sales-ready opportunities.
+**Land high value logos from self-service signups.** Pick out the best logos by using Clearbit from the self-service funnel to engage with. Given relationships are typically not established at this stage, this is often a segment ripe with unclaimed, sales-ready opportunities.
 
 ## Sales Tactics
 

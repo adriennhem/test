@@ -17,11 +17,11 @@ description: >-
 
 ## Sales Strategies
 
-**Sell additional capabilities. **Sell** **Visitor Authentication. This can be done to the same teams already using the product or across teams.
+**Sell additional capabilities.** Sell **** Visitor Authentication. This can be done to the same teams already using the product or across teams.
 
 **Upsell usage.**  Identify opportunities for additional use cases.
 
-**Increase seat penetration. **Reps can leverage penetration metrics (e.g., how many seats are used out of the total number of people within an org/company) to identify poorly penetrated accounts and help increase seat count. This works particularly well for seat-based pricing, as you might imagine.
+**Increase seat penetration.** Reps can leverage penetration metrics (e.g., how many seats are used out of the total number of people within an org/company) to identify poorly penetrated accounts and help increase seat count. This works particularly well for seat-based pricing, as you might imagine.
 
 ## **Sales Tactics**
 

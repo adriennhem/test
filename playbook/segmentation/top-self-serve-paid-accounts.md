@@ -17,9 +17,9 @@ description: >-
 
 ## Sales Strategies
 
-**Convert Team and Business accounts to Enterprise. **Identify accounts in the Team and Business tier that have high conversion potential from a product usage perspective and reach out the buyers and champions in those accounts to drive a sales conversation.
+**Convert Team and Business accounts to Enterprise.** Identify accounts in the Team and Business tier that have high conversion potential from a product usage perspective and reach out the buyers and champions in those accounts to drive a sales conversation.
 
-**\[FOR LATER] Rollup workspaces to a single account. **Organization, can have multiple workspaces, apps, accounts, or whatever those are called within GitBook. Creating a comprehensive view of all usage within a prospective organization provides an opportunity to engage IT buyers in order to upsell compliance and security capabilities, resulting in a larger ACV.
+**\[FOR LATER] Rollup workspaces to a single account.** Organization, can have multiple workspaces, apps, accounts, or whatever those are called within GitBook. Creating a comprehensive view of all usage within a prospective organization provides an opportunity to engage IT buyers in order to upsell compliance and security capabilities, resulting in a larger ACV.
 
 ## Sales Tactics
 
