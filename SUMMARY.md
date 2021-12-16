@@ -14,6 +14,7 @@
   * [Top self-serve paid accounts](playbook/segmentation/top-self-serve-paid-accounts.md)
   * [Top enterprise accounts](playbook/segmentation/top-enterprise-accounts.md)
   * [Identify buyers & champions](playbook/segmentation/identify-buyers-and-champions.md)
+  * [In Hubspot](playbook/segmentation/in-hubspot.md)
 * [Ideal Customer Profile](playbook/ideal-customer-profile.md)
 * [Notable Customers](playbook/notable-customers.md)
 * [Collaterals](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/AOUfQkzsCPkwC0S4bvuT/)
