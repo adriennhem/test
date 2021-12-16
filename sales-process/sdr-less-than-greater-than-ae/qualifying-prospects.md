@@ -12,5 +12,10 @@ _SDRs can qualify prospects by email communication or by scheduling a 15-minute 
 
 ### Some qualification question ideas for SDRs to ask:
 
-* How many users will you have using GitBook internally? Reader, Editor and Admin access. (not external readers).
 * What is your use case? What type of documentation are you trying to build/create or migrate?
+* Is your documentation going to be fully public, private or both?
+* Is there any use case for sharing documents externally and securely? (visitor authentication)
+* How many users will you have using GitBook internally? Reader, Editor and Admin access. (not external readers).
+* What are you using or have in place currently?
+* Are you looking at any other documentation solutions?
+* Will you be needing SAML SSO?
