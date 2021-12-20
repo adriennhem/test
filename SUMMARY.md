@@ -19,18 +19,20 @@
 * [Notable Customers](playbook/notable-customers.md)
 * [Collaterals](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/AOUfQkzsCPkwC0S4bvuT/)
 
+## 🥁 SDR PROCESS
+
+* [Sales Forms](sdr-process/sales-forms/README.md)
+  * [Sales Forms Process](sdr-process/sales-forms/sales-forms-process.md)
+  * [SDR <> AE 🤝](sdr-process/sales-forms/sdr-less-than-greater-than-ae/README.md)
+    * [Qualifying prospects](sdr-process/sales-forms/sdr-less-than-greater-than-ae/qualifying-prospects.md)
+    * [Qualified opportunities](sdr-process/sales-forms/sdr-less-than-greater-than-ae/qualified-opportunities.md)
+    * [SDR > AE Handoff](sdr-process/sales-forms/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
+
 ## 📊 Sales Process
 
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of Engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
-* [Sales Inputs](sales-process/sales-inputs/README.md)
-  * [Sales Forms](sales-process/sales-inputs/sales-forms.md)
-  * [Sales Forms Process](sales-process/sales-inputs/sales-forms-process.md)
-* [SDR <> AE 🤝](sales-process/sdr-greater-than-ae-handoff.md)
-  * [Qualifying prospects](sales-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
-  * [Qualified opportunities](sales-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
-  * [SDR > AE Handoff](sales-process/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
 * [Sales Process](sales-process/sales-process/README.md)
   * [Deal Qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery Call](sales-process/sales-process/discovery-call-checklist.md)

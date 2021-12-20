@@ -47,8 +47,6 @@ SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified 
 * They use a competitor like Notion and it doesn’t work for them because they need something for technical teams/technical documentation.
 * They use Confluence, ReadMe, Archbee, Document360, Docusaurus or other direct competitors.
 
-###
-
 ## What happens to unqualified prospects?
 
 **Unqualified prospect**: Prospects that are not potential Enterprise deals but are potential Team/Business plans that have potential to grow.
