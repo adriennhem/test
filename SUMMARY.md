@@ -26,7 +26,7 @@
 * [Forecasting](sales-process/forecasting.md)
 * [Sales Inputs](sales-process/sales-inputs/README.md)
   * [Sales Forms](sales-process/sales-inputs/sales-forms.md)
-  * [WIP - Sales Forms Process](sales-process/sales-inputs/wip-sales-forms-process.md)
+  * [Sales Forms Process](sales-process/sales-inputs/sales-forms-process.md)
 * [SDR <> AE 🤝](sales-process/sdr-greater-than-ae-handoff.md)
   * [Qualifying prospects](sales-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [Qualified opportunities](sales-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
