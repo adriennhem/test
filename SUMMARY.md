@@ -25,8 +25,8 @@
   * [Qualifying prospects](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [Qualified opportunities](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
   * [SDR > AE Handoff](sdr-process/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
-* [Sales Forms](sdr-process/sales-forms/README.md)
-  * [Sales Forms Process](sdr-process/sales-forms/sales-forms-process.md)
+* [Sales forms](sdr-process/sales-forms/README.md)
+  * [Sales forms process](sdr-process/sales-forms/sales-forms-process.md)
   * [Outreach tactics](sdr-process/sales-forms/outreach-tactics.md)
 
 ## 📊 Sales Process
