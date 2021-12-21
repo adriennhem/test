@@ -21,21 +21,22 @@
 
 ## 🥁 SDR PROCESS
 
+* [SDR <> AE 🤝](sdr-process/sdr-less-than-greater-than-ae/README.md)
+  * [Qualifying prospects](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
+  * [Qualified opportunities](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
+  * [SDR > AE Handoff](sdr-process/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
 * [Sales Forms](sdr-process/sales-forms/README.md)
   * [Sales Forms Process](sdr-process/sales-forms/sales-forms-process.md)
-  * [SDR <> AE 🤝](sdr-process/sales-forms/sdr-less-than-greater-than-ae/README.md)
-    * [Qualifying prospects](sdr-process/sales-forms/sdr-less-than-greater-than-ae/qualifying-prospects.md)
-    * [Qualified opportunities](sdr-process/sales-forms/sdr-less-than-greater-than-ae/qualified-opportunities.md)
-    * [SDR > AE Handoff](sdr-process/sales-forms/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
+  * [Outreach tactics](sdr-process/sales-forms/outreach-tactics.md)
 
 ## 📊 Sales Process
 
 * [What is a deal](sales-process/what-is-a-deal.md)
-* [Rules of Engagement](sales-process/rules-of-engagement.md)
+* [Rules of engagement](sales-process/rules-of-engagement.md)
 * [Forecasting](sales-process/forecasting.md)
-* [Sales Process](sales-process/sales-process/README.md)
-  * [Deal Qualification](sales-process/sales-process/deal-qualification.md)
-  * [Discovery Call](sales-process/sales-process/discovery-call-checklist.md)
+* [Sales process](sales-process/sales-process/README.md)
+  * [Deal qualification](sales-process/sales-process/deal-qualification.md)
+  * [Discovery call](sales-process/sales-process/discovery-call-checklist.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 
 ## 💰 Pricing
