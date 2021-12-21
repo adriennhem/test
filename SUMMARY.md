@@ -57,6 +57,7 @@
 
 * [Onboarding](onboarding-1/onboarding/README.md)
   * [Tooling](onboarding-1/onboarding/page-1.md)
+  * [Set up Aircall extension](onboarding-1/onboarding/set-up-aircall-extension.md)
   * [Set up Slack notif in Hubspot](onboarding-1/onboarding/set-up-slack-notif-in-hubspot.md)
 * [Start, Stop, Continues](onboarding-1/untitled/README.md)
   * [Account Executive](onboarding-1/untitled/mark.md)
