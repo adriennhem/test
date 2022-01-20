@@ -24,6 +24,7 @@
 * [SDR <> AE 🤝](sdr-process/sdr-less-than-greater-than-ae/README.md)
   * [Qualifying prospects](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [Qualified opportunities](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
+  * [Emailing](sdr-process/sdr-less-than-greater-than-ae/emailing.md)
   * [OLD - SDR > AE Handoff](sdr-process/sdr-less-than-greater-than-ae/old-sdr-greater-than-ae-handoff.md)
 * [Sales forms](sdr-process/sales-forms/README.md)
   * [Sales forms process](sdr-process/sales-forms/sales-forms-process.md)
