@@ -35,7 +35,8 @@
 
 * [What is a deal](sales-process/what-is-a-deal.md)
 * [Rules of engagement](sales-process/rules-of-engagement.md)
-* [Forecasting](sales-process/forecasting.md)
+* [Forecasting](sales-process/forecasting/README.md)
+  * [Deal Management](sales-process/forecasting/deal-management.md)
 * [Sales process](sales-process/sales-process/README.md)
   * [Deal qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery call](sales-process/sales-process/discovery-call-checklist.md)

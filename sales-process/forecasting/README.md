@@ -1,6 +1,6 @@
 # Forecasting
 
-## Review a forecast <a href="review-a-forecast" id="review-a-forecast"></a>
+## Review a forecast <a href="#review-a-forecast" id="review-a-forecast"></a>
 
 * In your HubSpot account, navigate to **Sales > Forecast**.
 * Users will appear in the forecast tool. Next to their name, you can analyse the following:
@@ -24,4 +24,4 @@ You can submit a custom forecast for the month or quarter to give your stakehold
 * To track your history of forecast submissions, click History to expand the section.
 * When you're ready to submit your forecast, click **Submit**.
 
-![](../.gitbook/assets/submit-forecast.gif)
+![](../../.gitbook/assets/submit-forecast.gif)
