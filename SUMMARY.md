@@ -30,6 +30,8 @@
   * [Sales forms process](sdr-process/sales-forms/sales-forms-process.md)
   * [WIP - Outreach tactics](sdr-process/sales-forms/wip-outreach-tactics.md)
   * [WIP - Qualification tactics](sdr-process/sales-forms/wip-qualification-tactics.md)
+* [WIP - Trialers](sdr-process/wip-trialers/README.md)
+  * [WIP - How to find Trialers](sdr-process/wip-trialers/wip-how-to-find-trialers.md)
 
 ## 📊 Sales Process
 
