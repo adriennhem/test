@@ -34,10 +34,14 @@ You can also look at the actual documentation that they are building in SN10 - t
 
 #### What you should be looking out for
 
-Research the company and see if they look like they might fit the Qualification criteria:
+Research the company and see if they look like they might fit the Qualification criteria, and if they look like our Ideal Customer Profile:
 
 {% content-ref url="../sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
 [qualified-opportunities.md](../sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../playbook/ideal-customer-profile.md" %}
+[ideal-customer-profile.md](../../playbook/ideal-customer-profile.md)
 {% endcontent-ref %}
 
 Top things to look out for:
