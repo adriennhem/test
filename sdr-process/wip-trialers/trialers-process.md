@@ -66,7 +66,7 @@ You can see who the top users of a trial are by checking out the `Product Score`
 
 * add screenshots/video to this part, and how you can see all contacts on one trial by filtering
 
-#### Reaching out to Trialers - HubSpot sequences
+### Reaching out to Trialers - HubSpot sequences
 
 You might want to add Trialers to sequences to deliver a series of tailored messages during their trial. We have a number of different sequences based on priority and use case already in HubSpot. For inspiration, take a look at:
 
