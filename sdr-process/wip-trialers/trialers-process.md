@@ -6,7 +6,7 @@ add video here
 
 #### How to find your Trialers in HubSpot
 
-Use the HubSpot filters to find the top free and/or trial accounts:
+Use the HubSpot filters linked in the "In Hubspot" page below to find the top free and/or trial accounts based on factors such as the number of users in a trial, company size, and trial activity:
 
 {% content-ref url="../../playbook/segmentation/in-hubspot.md" %}
 [in-hubspot.md](../../playbook/segmentation/in-hubspot.md)
@@ -26,8 +26,22 @@ You can also look at the actual documentation that they are building in SN10 - t
 
 ####
 
-####
+
 
 #### Who are the top users on the trial?
 
 #### Reaching out to trialers - HubSpot sequences
+
+#### What you should be looking out for
+
+Research the company and see if they look like they might fit the Qualification criteria:
+
+{% content-ref url="../sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
+[qualified-opportunities.md](../sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% endcontent-ref %}
+
+Top things to look out for:
+
+* **Over 50 employees**
+* **Use Case = Internal Knowledge Base** - because they will need more internal users in their GitBook
+* **Company recently got funding/ is growing** - they could grow into more seats
