@@ -45,6 +45,7 @@
   * [Discovery call](sales-process/sales-process/discovery-call-checklist.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 * [Sales FAQ's](sales-process/sales-faqs.md)
+* [Page 1](sales-process/page-1.md)
 
 ## 💰 Pricing
 
