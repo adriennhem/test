@@ -33,6 +33,7 @@
 * [WIP - Trialers](sdr-process/wip-trialers/README.md)
   * [Trialers Process](sdr-process/wip-trialers/trialers-process.md)
   * [WIP - Outreach Tactics](sdr-process/wip-trialers/wip-outreach-tactics.md)
+* [How to videos](sdr-process/how-to-videos.md)
 
 ## 📊 Sales Process
 
