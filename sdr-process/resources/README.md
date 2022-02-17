@@ -4,8 +4,8 @@ description: Resources for improving your outreach :)
 
 # Resources 🏫
 
-{% content-ref url="email-writing.md" %}
-[email-writing.md](email-writing.md)
+{% content-ref url="things-to-read.md" %}
+[things-to-read.md](things-to-read.md)
 {% endcontent-ref %}
 
 {% content-ref url="podcasts.md" %}
