@@ -1,6 +1,8 @@
 # How to videos
 
-How to extend a trial
+### How to extend a trial
+
+{% embed url="https://www.loom.com/share/fdc2a6f90bdf4b68bef5a1f099a59d9f" %}
 
 
 
