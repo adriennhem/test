@@ -2,7 +2,7 @@
 description: Resources for improving your outreach :)
 ---
 
-# Resources 🏫
+# SDR Resources 🏫
 
 {% content-ref url="things-to-read.md" %}
 [things-to-read.md](things-to-read.md)
