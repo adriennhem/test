@@ -4,8 +4,8 @@ description: Resources for improving your outreach :)
 
 # SDR Resources 🏫
 
-{% content-ref url="things-to-read.md" %}
-[things-to-read.md](things-to-read.md)
+{% content-ref url="../sdr-resources/level-up.md" %}
+[level-up.md](../sdr-resources/level-up.md)
 {% endcontent-ref %}
 
 {% content-ref url="podcasts.md" %}

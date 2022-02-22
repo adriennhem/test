@@ -36,7 +36,7 @@
 * [GitBook Resources 📘](sdr-process/gitbook-resources/README.md)
   * [How to videos](sdr-process/gitbook-resources/how-to-videos.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
-  * [📄 Things to read](sdr-process/resources/things-to-read.md)
+  * [🆙 Level Up](sdr-process/sdr-resources/level-up.md)
   * [🎧 Podcasts](sdr-process/resources/podcasts.md)
   * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
 
