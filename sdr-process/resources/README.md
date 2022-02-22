@@ -8,8 +8,8 @@ description: Resources for improving your outreach :)
 [level-up.md](../sdr-resources/level-up.md)
 {% endcontent-ref %}
 
-{% content-ref url="podcasts.md" %}
-[podcasts.md](podcasts.md)
+{% content-ref url="../sdr-resources/podcasts-and-newsletters.md" %}
+[podcasts-and-newsletters.md](../sdr-resources/podcasts-and-newsletters.md)
 {% endcontent-ref %}
 
 {% content-ref url="linkedin.md" %}

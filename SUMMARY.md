@@ -37,7 +37,7 @@
   * [How to videos](sdr-process/gitbook-resources/how-to-videos.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
   * [🆙 Level Up](sdr-process/sdr-resources/level-up.md)
-  * [🎧 Podcasts](sdr-process/resources/podcasts.md)
+  * [🎧 Podcasts and Newsletters](sdr-process/sdr-resources/podcasts-and-newsletters.md)
   * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
 
 ## 📊 Sales Process
