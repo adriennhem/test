@@ -1,4 +1,4 @@
-# Emailing
+# 📧 Emailing
 
 {% hint style="info" %}
 The below advice is taken from [The SaaS Sales Method Fundamentals: How to Have Customer Conversations](https://www.amazon.co.uk/gp/product/1986270203/ref=as\_li\_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=1986270203\&linkCode=as2\&tag=winningbydesi-20\&linkId=2a247ed4b9b828201d0def00dfae77d0)
