@@ -2,15 +2,15 @@
 description: What is a qualified opportunity
 ---
 
-# Qualified opportunities
+# Qualified Opportunities ✅
 
 {% hint style="success" %}
-A **qualified opportunity** is a p_otential Enterprise deals or deals that can grow into an Enterprise account._
+A **qualified opportunity** is a potential Enterprise deal _or_ deal that can grow into an Enterprise account.
 {% endhint %}
 
-### Qualified opportunity criteria:
+## Qualified Opportunity Criteria
 
-When doing research on prospects, emailing them, speaking to them on a call, etc. SDRs try to qualify prospects by finding the below criteria.
+When doing research on prospects, emailing them, speaking to them on a call, etc. SDRs try to qualify prospects by finding the below criteria:
 
 1. **50+ employees** (Find this by researching the company on LinkedIn)
 2. A **compelling/critical event** such as:
@@ -30,6 +30,8 @@ When doing research on prospects, emailing them, speaking to them on a call, etc
 SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified and pass to an AE.
 {% endhint %}
 
+###
+
 ### Instantly qualified! Pass directly to an AE if:
 
 * Number of internal users needed is above 15
@@ -38,7 +40,9 @@ SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified 
 
 (If you're not sure, ask an AE if you should pass it or do a call with the prospect as an SDR to make sure)
 
-#### _Some examples of typically qualified customers include:_
+
+
+### **Some examples of typically qualified customers include:**
 
 * Need to create an internal knowledge base
 * Sharing documents securely (visitor authentication)
