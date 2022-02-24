@@ -7,7 +7,7 @@ Registration is used as a threshold requirement to separate vendors who are elig
 When we complete a vendor application for an organization, we are making them aware of our company, and of the products and services we can provide. This means that they are aware that we provide that product, and they may notify our company when they need to buy that particular product or service.
 
 {% hint style="success" %}
-As an Account Executive or a Customer Success Managers, you can register GitBook as a vendor yourself.&#x20;
+As an Account Executive or a Customer Success Manager, you can register GitBook as a vendor yourself.&#x20;
 {% endhint %}
 
 ## Required information
