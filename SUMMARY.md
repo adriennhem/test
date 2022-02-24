@@ -22,7 +22,7 @@
 ## 🥁 SDR PROCESS
 
 * [SDR <> AE 🤝](sdr-process/sdr-less-than-greater-than-ae/README.md)
-  * [Qualifying prospects](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
+  * [Qualifying Prospects 🤷‍♀️](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [Qualified opportunities](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
   * [SDR > AE Handoff](sdr-process/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
 * [Sales forms](sdr-process/sales-forms/README.md)
@@ -35,8 +35,8 @@
 * [GitBook Resources 📘](sdr-process/gitbook-resources/README.md)
   * [How to videos](sdr-process/gitbook-resources/how-to-videos.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
-  * [🆙 Level Up](sdr-process/sdr-resources/level-up/README.md)
-    * [📧 Emailing](sdr-process/sdr-resources/level-up/emailing.md)
+  * [🆙 Level Up](sdr-process/sdr-resources/level-up.md)
+    * [📧 Emailing](sdr-process/sdr-less-than-greater-than-ae/emailing.md)
   * [🎧 Podcasts and Newsletters](sdr-process/sdr-resources/podcasts-and-newsletters.md)
   * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
 
