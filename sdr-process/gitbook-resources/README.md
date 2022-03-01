@@ -18,7 +18,9 @@ Internal documentation:
 
 ## Where can I ask questions about GitBook?
 
-If you have a question about a how something works in GitBook, or if GitBook has a certain feature, you should use the Support Bucket in GitHub. Check our the [onboarding guide here](https://app.gitbook.com/s/-MMfZKNoA5f8Z7rvVL1K/processes/support-bucket/support-bucket-onboarding).
+#### Support Bucket
+
+If you have a question about a how something works in GitBook, or if GitBook has a certain feature, you should use the Support Bucket in GitHub. Check out the [onboarding guide here](https://app.gitbook.com/s/-MMfZKNoA5f8Z7rvVL1K/processes/support-bucket/support-bucket-onboarding).
 
 {% embed url="https://github.com/GitbookIO/support-bucket/discussions" %}
 GitBook Support Bucket
@@ -28,7 +30,14 @@ How to ask a question in Support Bucket:
 
 {% embed url="https://www.loom.com/share/9278d80dd511431ca63cf2748748c206" %}
 
+#### Slack
 
+You should always try and ask your questions in Support Bucket first. Support Bucket is the support team's preferred way of working, and Slack is not a good repository for information. By asking questions in Support Bucket, you are helping to build a repository of information that will be useful for everyone in the team.&#x20;
+
+But if you need an answer really quickly, or you think someone in the team already knows, you can try these channels:
+
+* `#customer-experience` - our team channel. Maybe someone in CX already knows
+* `#support-engineering` - to speak with the Support and Engineering teams. Please avoid asking here unless you need a really quick response
 
 
 
