@@ -1,5 +1,11 @@
 # GitBook Resources 📘
 
+🕵️ `Quick Find`&#x20;
+
+* [How can I learn about the GitBook platform?](./#how-can-i-learn-about-the-gitbook-platform)
+* [Where can I ask questions about GitBook?](./#where-can-i-ask-questions-about-gitbook)
+* [How can I submit product feedback and feature requests?](./#how-can-i-submit-product-feedback-and-feature-requests)
+
 ## How can I learn about the GitBook platform?
 
 Public facing documentation:
@@ -13,8 +19,6 @@ Internal documentation:
 {% content-ref url="https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/AOUfQkzsCPkwC0S4bvuT/" %}
 [Collaterals](https://app.gitbook.com/o/d8f63b60-89ae-11e7-8574-5927d48c4877/s/AOUfQkzsCPkwC0S4bvuT/)
 {% endcontent-ref %}
-
-
 
 ## Where can I ask questions about GitBook?
 
@@ -40,6 +44,14 @@ But if you need an answer really quickly, or you think someone in the team alrea
 
 * `#customer-experience` - our team channel. Maybe someone in CX already knows
 * `#support-engineering` - to speak with the Support and Engineering teams. Please avoid asking here unless you need a really quick response
+
+
+
+## How can I submit product feedback and feature requests?
+
+Productboard. Read the [guide here](https://app.gitbook.com/s/yIrgHZ43ZsvtOw7uAQIh/getting-started/contributing-and-collaborating/providing-insight-and-ideas).
+
+{% embed url="https://gitbook.productboard.com/insights/notes/following" %}
 
 
 

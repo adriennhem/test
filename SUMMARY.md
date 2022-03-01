@@ -33,12 +33,13 @@
   * [Trialers Process](sdr-process/wip-trialers/trialers-process.md)
   * [WIP - Outreach Tactics](sdr-process/wip-trialers/wip-outreach-tactics.md)
 * [GitBook Resources 📘](sdr-process/gitbook-resources/README.md)
-  * [How to videos](sdr-process/gitbook-resources/how-to-videos.md)
+  * [Product Feedback and Requests](sdr-process/gitbook-resources/product-feedback-and-requests.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
   * [🆙 Level Up](sdr-process/sdr-resources/level-up.md)
     * [📧 Emailing](sdr-process/sdr-less-than-greater-than-ae/emailing.md)
   * [🎧 Podcasts and Newsletters](sdr-process/sdr-resources/podcasts-and-newsletters.md)
   * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
+* [How to videos](sdr-process/how-to-videos.md)
 
 ## 📊 Sales Process
 
