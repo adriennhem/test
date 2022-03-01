@@ -2,9 +2,9 @@
 
 🕵️ `Quick Find`&#x20;
 
-* [How can I learn about the GitBook platform?](./#how-can-i-learn-about-the-gitbook-platform)
-* [Where can I ask questions about GitBook?](./#where-can-i-ask-questions-about-gitbook)
-* [How can I submit product feedback and feature requests?](./#how-can-i-submit-product-feedback-and-feature-requests)
+* [How can I learn about the GitBook platform?](gitbook-resources.md#how-can-i-learn-about-the-gitbook-platform)
+* [Where can I ask questions about GitBook?](gitbook-resources.md#where-can-i-ask-questions-about-gitbook)
+* [How can I submit product feedback and feature requests?](gitbook-resources.md#how-can-i-submit-product-feedback-and-feature-requests)
 
 ## How can I learn about the GitBook platform?
 
