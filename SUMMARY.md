@@ -67,6 +67,10 @@
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
 * [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/customer-lifecycle/internal-handoff)
 
+## 🏋♀ Training
+
+* [Page 1](training/page-1.md)
+
 ## 🛩Onboarding <a href="#onboarding-1" id="onboarding-1"></a>
 
 * [Onboarding](onboarding-1/onboarding/README.md)
