@@ -1,13 +1,18 @@
-# Sales forms process
+# Sales Forms Process
+
+`Quick find 🕵️`
+
+* [Miro Board - Sales Form Flow](sales-forms-process.md#undefined)
+* [How to find the Sales Forms](sales-forms-process.md#find-the-forms)
+* [Check if a visitor has already scheduled a meeting](sales-forms-process.md#how-to-check-if-a-visitor-has-already-scheduled-a-meeting-with-an-ae)
+* [Anatomy of a Sales Form in Slack](sales-forms-process.md#form-in-slack)
+* [Send to Support](sales-forms-process.md#send-to-support)
+
+## Miro Board - Sales Form Flow
 
 {% embed url="https://miro.com/app/board/uXjVOa0Wx5w=?invite_link_id=210219978901" %}
 
-* [Find the forms](sales-forms-process.md#find-the-forms)
-  * [Forms in Slack](sales-forms-process.md#form-in-slack)
-* [Check if a visitor has already scheduled a meeting](sales-forms-process.md#how-to-check-if-a-visitor-has-already-scheduled-a-meeting-with-an-ae)
-* [Send to Support](sales-forms-process.md#send-to-support)
-
-## Find the forms
+## How to find the sales forms
 
 * [#notif-hubspot-sales-form](https://gitbook.slack.com/archives/C01QCP9T9JT) channel in Slack
 * [Hubspot](https://app.hubspot.com/tasks/8443689/view/all)

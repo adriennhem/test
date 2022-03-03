@@ -27,7 +27,7 @@
   * [Qualified Opportunities ✅](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
   * [SDR > AE Handoff](sdr-process/sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
 * [Sales forms 📄](sdr-process/sales-forms/README.md)
-  * [Sales forms process](sdr-process/sales-forms/sales-forms-process.md)
+  * [Sales Forms Process](sdr-process/sales-forms/sales-forms-process.md)
   * [WIP - Outreach tactics](sdr-process/sales-forms/wip-outreach-tactics.md)
   * [WIP - Qualification tactics](sdr-process/sales-forms/wip-qualification-tactics.md)
 * [WIP - Trialers](sdr-process/wip-trialers/README.md)
@@ -75,7 +75,7 @@
 * [2022](wip-training/2022/README.md)
   * [March](wip-training/2022/march/README.md)
     * [2/3](wip-training/2022/march/2-3.md)
-    * [9/3](wip-training/2022/march/9-3.md)
+    * [9/3](wip-training/copy-of-template.md)
   * [February](wip-training/2022/february/README.md)
     * [Page 1](wip-training/2022/february/page-1.md)
 
