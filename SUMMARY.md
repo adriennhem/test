@@ -72,7 +72,7 @@
 
 * [AE team - weekly training](wip-training/ae-team-weekly-training.md)
 * [Template](wip-training/template.md)
-* [Copy of Template](wip-training/copy-of-template.md)
+* [9/3](wip-training/9-3.md)
 * [2022](wip-training/2022/README.md)
   * [March](wip-training/2022/march/README.md)
     * [2/3](wip-training/2022/march/2-3.md)
