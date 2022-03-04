@@ -10,12 +10,6 @@ We should all feel empowered to own our documentation and work to improve it.
 
 In this section you will find everything you need to know about how the SDR team at GitBook works.&#x20;
 
-|                                    |                     |                       |
-| ---------------------------------- | ------------------- | --------------------- |
-| ![](../.gitbook/assets/Sophie)     | Sophie - Senior SDR | Working with me guide |
-| ![](../.gitbook/assets/Daniel.png) | Daniel - Senior SDR |                       |
-| ![](../.gitbook/assets/Ale.png)    | Alejandro -         |                       |
-
 
 
 
