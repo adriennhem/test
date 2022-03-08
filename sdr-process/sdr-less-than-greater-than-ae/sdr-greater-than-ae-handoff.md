@@ -84,6 +84,8 @@ Best,
 
 <summary><strong>SDR Responsibilities</strong></summary>
 
+**On the Contact's page:**
+
 Change Contact's **Lifecycle Stage** property to: `Sales qualified lead`
 
 ![](<../../.gitbook/assets/Lifecycle stage.png>)
@@ -93,6 +95,20 @@ Change Contact's **Lifecycle Stage** property to: `Sales qualified lead`
 Change Meeting Outcome to "Scheduled"
 
 ![](../../.gitbook/assets/Outcome.png)
+
+
+
+**On the Deal page:**
+
+Change the **Qualified by** property to your name.
+
+Change the **Conversation Source**.
+
+* `Sales sequence - sign up & trial` if the opportunity came from a free trialer
+
+Update the properties in the **Qualification** section of the deal
+
+![](<../../.gitbook/assets/Screenshot 2022-03-08 at 11.50.44 AM.png>)
 
 
 
