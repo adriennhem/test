@@ -2,7 +2,7 @@
 description: How do we qualify prospects
 ---
 
-# Qualifying Prospects 🤷‍♀️
+# 🤷 Qualifying Prospects
 
 ✅ `SDRs can qualify prospects by email communication, by calling them on the phone, or by scheduling a 15-minute zoom call with them.`
 

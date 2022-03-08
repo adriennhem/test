@@ -8,11 +8,19 @@ We should all feel empowered to own our documentation and work to improve it.
 
 `Welcome to the team 💪`
 
-In this section you will find everything you need to know about how the SDR team at GitBook works.&#x20;
+In this section you will find everything you need to know about how the SDR team at GitBook works. Here's some links to some of the docs you'll probably find of particular interest:&#x20;
 
+{% content-ref url="sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
+[qualified-opportunities.md](sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% endcontent-ref %}
 
+{% content-ref url="sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md" %}
+[sdr-greater-than-ae-handoff.md](sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="sales-forms/sales-forms-process.md" %}
+[sales-forms-process.md](sales-forms/sales-forms-process.md)
+{% endcontent-ref %}
 
 
 
