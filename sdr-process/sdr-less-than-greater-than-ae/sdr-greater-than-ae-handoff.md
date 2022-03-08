@@ -2,7 +2,7 @@
 description: SDR and AE responsibilities when passing prospects from SDR to AE
 ---
 
-# SDR > AE Handoff
+# 🤝 SDR > AE Handoff
 
 ### 1️⃣ Use the HubSpot Round Robin to select an AE
 
@@ -92,9 +92,9 @@ Change Contact's **Lifecycle Stage** property to: `Sales qualified lead`
 
 
 
-Change Meeting Outcome to "Scheduled"
+Change **Meeting Outcome** to `Scheduled`
 
-![](../../.gitbook/assets/Outcome.png)
+![](<../../.gitbook/assets/Screenshot 2022-03-08 at 6.00.13 PM.png>)
 
 
 
@@ -102,7 +102,7 @@ Change Meeting Outcome to "Scheduled"
 
 Change the **Qualified by** property to your name.
 
-Change the **Conversation Source**.
+Change the **Conversation Source:**
 
 * `Sales sequence - sign up & trial` if the opportunity came from a free trialer
 
