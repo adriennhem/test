@@ -21,7 +21,8 @@
 
 ## 🥁 SDR PROCESS
 
-* [SDR Team 😎](sdr-process/sdr-team.md)
+* [SDR Team 😎](sdr-process/sdr-team/README.md)
+  * [Page 2](sdr-process/sdr-team/page-2.md)
 * [SDR <> AE 🤝](sdr-process/sdr-less-than-greater-than-ae/README.md)
   * [🤷 Qualifying Prospects](sdr-process/sdr-less-than-greater-than-ae/qualifying-prospects.md)
   * [✅ Qualified Opportunities](sdr-process/sdr-less-than-greater-than-ae/qualified-opportunities.md)
