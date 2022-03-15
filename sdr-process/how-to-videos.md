@@ -4,13 +4,13 @@
 
 GitBook how-tos
 
-* [How to extend a trial](./#how-to-extend-a-trial)
-* [How to set up Baby Biz on Stripe](./#how-to-set-up-baby-biz-on-stripe)
-* [How to use Variants to publish docs in multiple languages](./#undefined)
+* [How to extend a trial](how-to-videos.md#how-to-extend-a-trial)
+* [How to set up Baby Biz on Stripe](how-to-videos.md#how-to-set-up-baby-biz-on-stripe)
+* [How to use Variants to publish docs in multiple languages](how-to-videos.md#undefined)
 
 Productivity
 
-* [How to set up an Email folder/label in Gmail using filters](./#how-to-set-up-an-email-folder-label-in-gmail-using-filters)
+* [How to set up an Email folder/label in Gmail using filters](how-to-videos.md#how-to-set-up-an-email-folder-label-in-gmail-using-filters)
 
 
 
