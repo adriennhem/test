@@ -40,7 +40,8 @@
     * [📧 Emailing](sdr-process/sdr-less-than-greater-than-ae/emailing.md)
   * [🎧 Podcasts and Newsletters](sdr-process/sdr-resources/podcasts-and-newsletters.md)
   * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
-* [How to videos](sdr-process/how-to-videos.md)
+* [How to videos](sdr-process/how-to-videos/README.md)
+  * [Features](https://app.gitbook.com/s/AOUfQkzsCPkwC0S4bvuT/for-and-about-customers/features)
 
 ## 📊 Sales Process
 
