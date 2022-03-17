@@ -68,7 +68,7 @@
 
 * [Order Forms](procurement/page-1.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
-* [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/working-with-sales/internal-handoff)
+* [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/working-with-the-sales-team/internal-handoff)
 
 ## 🏋♀ WIP - Training&#x20;
 
@@ -78,7 +78,7 @@
   * [March](wip-training/2022/march/README.md)
     * [2/3](wip-training/2022/march/2-3.md)
     * [9/3](wip-training/2022/march/9-3.md)
-    * [16/3](wip-training/2022/march/16-3.md)
+    * [23/3](wip-training/2022/march/23-3.md)
   * [February](wip-training/2022/february/README.md)
     * [Page 1](wip-training/2022/february/page-1.md)
 
