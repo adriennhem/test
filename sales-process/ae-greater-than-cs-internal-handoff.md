@@ -1,6 +1,6 @@
-# AE <> CS ✨
+# ✨ AE > CS Internal Handoff
 
-### Steps to complete when a prospect has signed our order form and handing off to Customer Success.&#x20;
+### Steps to complete when a prospect has signed our order form and handing off to Customer Success.
 
 {% embed url="https://www.loom.com/share/88a19669c2ff4e78b87ee626315c09b4" %}
 See video for a breakdown handoff to CS
