@@ -9,6 +9,6 @@ See video for a breakdown handoff to CS
 1. Fill out all relevant fields in the deal on HubSpot.
 2. Add all the contacts you've spoken to the deal.
 3. Fill out the [AE <> CS Handoff notes](https://app.hubspot.com/playbooks/8443689/compose/658746) Playbook on the bottom left.
-4. **Tag Natasza** on the deal and attach the PDF of the signed order form.
+4. **Tag** [Natasza Pol](https://app.gitbook.com/u/bHyJp7tVNcRD1mPuHxX9g9XbvFJ3 "mention") on the deal and attach the PDF of the signed order form.
 5. Intro to CSM.
 6. Closed won.
