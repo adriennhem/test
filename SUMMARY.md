@@ -52,7 +52,7 @@
 * [Sales process](sales-process/sales-process/README.md)
   * [Deal qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery call](sales-process/sales-process/discovery-call-checklist.md)
-* [WIP - AE <> CS ✨](sales-process/wip-ae-less-than-greater-than-cs.md)
+* [AE <> CS ✨](sales-process/ae-less-than-greater-than-cs.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 * [Sales FAQ's](sales-process/sales-faqs.md)
 
