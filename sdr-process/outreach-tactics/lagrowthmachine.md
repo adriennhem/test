@@ -42,7 +42,7 @@ LGM will enrich your leads. Most importantly it will find their LinkedIn profile
 
 ## Building a sequence
 
-You can see the team's existing sequences in LGM (it's the paper plane ✈️ symbol in the left nav bar). A good idea way to start is by duplicating one of these and editing it.&#x20;
+You can see the team's existing sequences in LGM (it's the paper plane ✈️ symbol in the left nav bar). A good idea to start is by duplicating one of these and editing it.&#x20;
 
 LGM run a group onboarding webinar every Tuesday. I highly recommend you attend it. RSVP to the next session below 👇
 
@@ -52,7 +52,7 @@ LGM Onboarding Webinar
 
 ## How audiences work
 
-When you build a sequence, you attach it to an Audience. When you add a lead to an Audience, it will automatically be started in any active sequences that Audience is attached to. Make sure you don't add your leads to other people's Audiences, otherwise they will be added to their sequence :)
+You add leads into an Audience to enrol them into a sequence. When you build a sequence, you attach it to an Audience. When you add a lead to an Audience, it will automatically be started in any active sequences that Audience is attached to. Make sure you don't add your leads to other people's Audiences, otherwise they will be added to their sequence :)
 
 ## When a sequence ends
 
@@ -60,7 +60,7 @@ A lead will be taken out of a sequence when they reach a goal. By default this i
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-23 at 7.42.06 PM.png>)
 
-Currently there is no Calendly <> LGM integration (as far as I know), so if the lead books in with you but doesn't email you, they won't be taken out of the sequence. In this case you should go to LGM and manually pause them.
+Currently there is no Calendly <> LGM integration (as far as I know), so if the lead books in with you but doesn't email you, they won't be taken out of the sequence. In this case you should go to LGM and manually pause them. I think we can build some HubSpot automation to do this for us in the future, but I don't think it's too much manual work for now.
 
 ## Send your sequence for review
 
