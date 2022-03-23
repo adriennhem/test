@@ -32,11 +32,11 @@ If you pass the lead to an AE, tell them to look at your notes in the playbook. 
 
 On the contact page of the lead you are calling, scroll down to "Playbooks" in the right column, and choose "SDR Discovery Call":
 
-![](<../../.gitbook/assets/Screenshot 2022-01-14 at 12.07.42 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-01-14 at 12.07.42 PM.png>)
 
 Fill in the Playbook during your call and then click the orange "Log call" button at the bottom once you're done. The outcome should be `Connected`
 
-![](<../../.gitbook/assets/Screenshot 2022-01-14 at 12.09.10 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-01-14 at 12.09.10 PM.png>)
 
 </details>
 
@@ -44,4 +44,4 @@ Fill in the Playbook during your call and then click the orange "Log call" butto
 "Pin" 📌 your SDR Discovery Call notes on the contact's page so that the AE can easily find them
 {% endhint %}
 
-![Pinned call notes](<../../.gitbook/assets/Screenshot 2022-02-24 at 6.32.58 PM.png>)
+![Pinned call notes](<../../../.gitbook/assets/Screenshot 2022-02-24 at 6.32.58 PM.png>)
