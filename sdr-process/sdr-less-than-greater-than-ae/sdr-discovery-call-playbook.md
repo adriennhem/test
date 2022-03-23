@@ -1,4 +1,4 @@
-# SDR Discovery Call Playbook
+# ✏ SDR Discovery Call Playbook
 
 #### SDR Discovery Call Playbook - HubSpot
 
@@ -10,8 +10,8 @@ If you pass the lead to an AE, tell them to look at your notes in the playbook. 
 
 On the contact page of the lead you are calling, scroll down to "Playbooks" in the right column, and choose "SDR Discovery Call":
 
-![](<../../../.gitbook/assets/Screenshot 2022-01-14 at 12.07.42 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-01-14 at 12.07.42 PM.png>)
 
 Fill in the Playbook during your call and then click the orange "Log call" button at the bottom once you're done:
 
-![](<../../../.gitbook/assets/Screenshot 2022-01-14 at 12.09.10 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-01-14 at 12.09.10 PM.png>)

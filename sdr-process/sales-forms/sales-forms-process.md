@@ -16,8 +16,8 @@ Your Goal with Sales Forms is to Qualify and pass to an AE, or to disqualify the
 [qualified-opportunities.md](../sdr-less-than-greater-than-ae/qualified-opportunities.md)
 {% endcontent-ref %}
 
-{% content-ref url="../sdr-less-than-greater-than-ae/qualifying-prospects/" %}
-[qualifying-prospects](../sdr-less-than-greater-than-ae/qualifying-prospects/)
+{% content-ref url="../sdr-less-than-greater-than-ae/qualifying-prospects.md" %}
+[qualifying-prospects.md](../sdr-less-than-greater-than-ae/qualifying-prospects.md)
 {% endcontent-ref %}
 
 ## Miro Board - Sales Form Flow
