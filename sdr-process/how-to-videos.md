@@ -12,7 +12,7 @@ Productivity
 
 * [How to set up an Email folder/label in Gmail using filters](how-to-videos.md#how-to-set-up-an-email-folder-label-in-gmail-using-filters)
 
-
+## GitBook
 
 ### How to extend a trial
 
@@ -27,6 +27,8 @@ Productivity
 ### How to use Variants to publish your docs in multiple languages
 
 {% embed url="https://www.loom.com/share/86eb802ca5e34369b6ef3e2d53749620" %}
+
+## Productivity
 
 ### How to set up an Email folder/label in Gmail using filters&#x20;
 
