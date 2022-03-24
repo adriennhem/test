@@ -1,4 +1,4 @@
-# LaGrowthMachine 🔥
+# 🔥 LaGrowthMachine
 
 ## What is it?&#x20;
 

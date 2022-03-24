@@ -34,7 +34,7 @@
   * [Trialers Process](sdr-process/wip-trialers/trialers-process.md)
   * [WIP - Outreach Tactics](sdr-process/wip-trialers/wip-outreach-tactics.md)
 * [Outreach Tactics](sdr-process/outreach-tactics/README.md)
-  * [🔥 LaGrowthMachine 🔥](sdr-process/outreach-tactics/lagrowthmachine.md)
+  * [🔥 LaGrowthMachine](sdr-process/outreach-tactics/lagrowthmachine.md)
   * [Double Tap Inbound Play](sdr-process/outreach-tactics/double-tap-inbound-play.md)
 * [GitBook Resources 📘](sdr-process/gitbook-resources.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
