@@ -33,6 +33,7 @@
 * [WIP - Trialers](sdr-process/wip-trialers/README.md)
   * [Trialers Process](sdr-process/wip-trialers/trialers-process.md)
   * [WIP - Outreach Tactics](sdr-process/wip-trialers/wip-outreach-tactics.md)
+  * [Triallers Vs Sign-ups](sdr-process/wip-trialers/triallers-vs-sign-ups.md)
 * [Outreach Tactics](sdr-process/outreach-tactics/README.md)
   * [🔥 LaGrowthMachine](sdr-process/outreach-tactics/lagrowthmachine.md)
   * [Double Tap Inbound Play](sdr-process/outreach-tactics/double-tap-inbound-play.md)
