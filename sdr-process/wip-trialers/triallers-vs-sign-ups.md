@@ -14,7 +14,7 @@ description: Explains the different between a trialler and a sign-up
    * This is good for personal projects but you **cannot** collaborate with anyone else on this plan - it is a one user plan
 2. 'My Team' **creates a trialler** - this prompts the user to create an organisation and select why they are using GitBook - IKB, product docs etc
 
-![Prompt screen after selecting 'my team'](<../../.gitbook/assets/image (1).png>)
+![Prompt screen after selecting 'my team'](<../../.gitbook/assets/image (1) (1).png>)
 
 * By creating an organisation the user is set up with a 14 day free trial of the business plan and is known in GB as a '**trialler'**
 

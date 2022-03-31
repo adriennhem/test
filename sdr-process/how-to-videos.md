@@ -18,7 +18,9 @@ Productivity
 
 {% embed url="https://www.loom.com/share/fdc2a6f90bdf4b68bef5a1f099a59d9f" %}
 
+![Change in userface](<../.gitbook/assets/image (1).png>)
 
+* ''Add trial'' is no longer under the ''add coupon'' button, it is now located at the bottom of the page as ''free trial days''
 
 ### **How to set up Baby Biz on Stripe**
 
