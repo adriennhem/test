@@ -39,10 +39,7 @@
   * [Double Tap Inbound Play](sdr-process/outreach-tactics/double-tap-inbound-play.md)
 * [GitBook Resources 📘](sdr-process/gitbook-resources.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
-  * [🆙 Level Up](sdr-process/sdr-resources/level-up.md)
-    * [📧 Emailing](sdr-process/sdr-less-than-greater-than-ae/emailing.md)
-  * [🎧 Podcasts and Newsletters](sdr-process/sdr-resources/podcasts-and-newsletters.md)
-  * [🗣 LinkedIn](sdr-process/resources/linkedin.md)
+  * [📧 Emailing](sdr-process/sdr-resources/emailing.md)
 * [How to videos](sdr-process/how-to-videos.md)
   * [GitBook Features](https://app.gitbook.com/s/AOUfQkzsCPkwC0S4bvuT/for-and-about-customers/features)
 
