@@ -77,3 +77,7 @@ Here's a link to an example Zap like that:
 {% embed url="https://zapier.com/shared/1d710ac81841c2a905cfb69e604a30cd5518d46a" %}
 HubSpot to LaGrowthMachine Zap
 {% endembed %}
+
+{% embed url="https://drive.google.com/file/d/1lhJjsXgBcPpZwxWbDw2epYLNilltgyt1/view?usp=sharing" %}
+Zoom recording of how to set up Zapier for HubSpot -> La Growth Machine
+{% endembed %}
