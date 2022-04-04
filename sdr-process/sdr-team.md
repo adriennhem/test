@@ -14,6 +14,10 @@ In this section you will find everything you need to know about how the SDR team
 [what-is-a-qualified-opportunity.md](sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md)
 {% endcontent-ref %}
 
+{% content-ref url="sdr-less-than-greater-than-ae/how-to-qualify-prospects.md" %}
+[how-to-qualify-prospects.md](sdr-less-than-greater-than-ae/how-to-qualify-prospects.md)
+{% endcontent-ref %}
+
 {% content-ref url="sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md" %}
 [sdr-greater-than-ae-handoff.md](sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md)
 {% endcontent-ref %}
@@ -21,8 +25,6 @@ In this section you will find everything you need to know about how the SDR team
 {% content-ref url="sales-forms/sales-forms-process.md" %}
 [sales-forms-process.md](sales-forms/sales-forms-process.md)
 {% endcontent-ref %}
-
-
 
 ### Do these things to be awesome 👍
 

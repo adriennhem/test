@@ -22,6 +22,7 @@
 ## 🥁 SDR PROCESS
 
 * [SDR Team 😎](sdr-process/sdr-team.md)
+  * [Productivity Tips](sdr-process/sdr-team/productivity-tips.md)
   * [Weekly Meeting](sdr-process/sdr-team/weekly-meeting.md)
 * [SDR <> AE 🤝](sdr-process/sdr-less-than-greater-than-ae/README.md)
   * [✅ What is a Qualified Opportunity](sdr-process/sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md)
