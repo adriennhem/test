@@ -1,8 +1,4 @@
----
-description: What is a qualified opportunity
----
-
-# ✅ Qualified Opportunities
+# ✅ What is a Qualified Opportunity
 
 {% hint style="success" %}
 A **qualified opportunity** is a potential Enterprise deal _or_ deal that can grow into an Enterprise account.

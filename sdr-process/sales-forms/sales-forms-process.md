@@ -12,12 +12,12 @@
 Your Goal with Sales Forms is to Qualify and pass to an AE, or to disqualify them. You can qualify over phone, email or a 15 minute zoom call. Check out the links to the qualification criteria below.
 {% endhint %}
 
-{% content-ref url="../sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
-[qualified-opportunities.md](../sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% content-ref url="../sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md" %}
+[what-is-a-qualified-opportunity.md](../sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md)
 {% endcontent-ref %}
 
-{% content-ref url="../sdr-less-than-greater-than-ae/qualifying-prospects.md" %}
-[qualifying-prospects.md](../sdr-less-than-greater-than-ae/qualifying-prospects.md)
+{% content-ref url="../sdr-less-than-greater-than-ae/how-to-qualify-prospects.md" %}
+[how-to-qualify-prospects.md](../sdr-less-than-greater-than-ae/how-to-qualify-prospects.md)
 {% endcontent-ref %}
 
 ## Miro Board - Sales Form Flow

@@ -12,21 +12,23 @@ On the contact's page, change the **Lead Status** to `Open Deal`. After about a 
 
 ### 2️⃣ Set up Zoom meeting / Send Calendly&#x20;
 
-You can either create the meeting directly in google calendar or use the AE's Calendly link (see links below) to schedule it. Using the Calendly is easier because you can pick the Prospect's timezone and see when the AE is available in their timezone.&#x20;
+You can either create the meeting directly in google calendar or use the AE's HubSpot calendar link (see links below) to schedule it. Using the HubSpot calendar is easier because you can pick the Prospect's timezone and see when the AE is available in their timezone.&#x20;
 
-Remember to fill in the Calendly scheduling with your Prospect's name and email address - not yours. There is space for a note - put something like `"Booked in by Sophie"`, so the AE knows that this meeting was booked in via you.
+Remember to fill in the HubSpot calendar scheduling with your Prospect's name and email address - not yours. There is space for a note - put something like `"Booked in by Sophie"`, so the AE knows that this meeting was booked in via you.
 
 {% hint style="warning" %}
-Open the AE's Calendly link in an incognito browser, otherwise Calendly will check against YOUR google calendar and only show times when YOU are free.
+Open the AE's HubSpot calendar link in an incognito browser, otherwise HubSpot calendar will check against YOUR google calendar and only show times when YOU are free.
 {% endhint %}
 
 <details>
 
-<summary>AEs' Calendly Links</summary>
+<summary>AEs' HubSpot calendar Links</summary>
 
 Zach - [https://calendly.com/zach-1234](https://calendly.com/zach-1234)
 
 Mark - [https://calendly.com/mark-1431](https://calendly.com/mark-1431)
+
+Sharon - [https://meetings.hubspot.com/sharon201](https://meetings.hubspot.com/sharon201)
 
 </details>
 
@@ -46,7 +48,7 @@ This is a 30' product demo to discover more about GitBook, our pricing and featu
 
 ### 3️⃣ SDR Introduces AE by email
 
-Send an email to the Prospect to confirm the meeting details and introduce the AE. You can even include a screenshot of the Calendly confirmation.
+Send an email to the Prospect to confirm the meeting details and introduce the AE. You can even include a screenshot of the HubSpot calendar confirmation.
 
 <details>
 

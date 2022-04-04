@@ -10,8 +10,8 @@ We should all feel empowered to own our documentation and work to improve it.
 
 In this section you will find everything you need to know about how the SDR team at GitBook works. Here's some links to some of the docs you'll probably find of particular interest:&#x20;
 
-{% content-ref url="sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
-[qualified-opportunities.md](sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% content-ref url="sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md" %}
+[what-is-a-qualified-opportunity.md](sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md)
 {% endcontent-ref %}
 
 {% content-ref url="sdr-less-than-greater-than-ae/sdr-greater-than-ae-handoff.md" %}

@@ -27,8 +27,8 @@ You can also use [this list](https://app.hubspot.com/contacts/8443689/objects/2-
 
 Research the company and see if they look like they might fit the Qualification criteria, and if they look like our Ideal Customer Profile:
 
-{% content-ref url="../sdr-less-than-greater-than-ae/qualified-opportunities.md" %}
-[qualified-opportunities.md](../sdr-less-than-greater-than-ae/qualified-opportunities.md)
+{% content-ref url="../sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md" %}
+[what-is-a-qualified-opportunity.md](../sdr-less-than-greater-than-ae/what-is-a-qualified-opportunity.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../playbook/ideal-customer-profile.md" %}
