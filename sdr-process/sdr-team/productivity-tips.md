@@ -29,6 +29,10 @@ Make sure you set your availability to "Free", not "Busy", so that prospects can
 
 
 
+#### Set up email filters / folders in your Gmail inbox
+
+{% embed url="https://www.loom.com/share/ca2f125007f64d04b519f5881537d604" %}
+
 WIP - browser bookmarks
 
 WIP - HubSpot templates and snippets
