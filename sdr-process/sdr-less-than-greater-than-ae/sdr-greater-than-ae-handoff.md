@@ -10,7 +10,7 @@ On the contact's page, change the **Lead Status** to `Open Deal`. After about a 
 
 
 
-### 2️⃣ Set up Zoom meeting / Send Calendly&#x20;
+### 2️⃣ Set up Zoom meeting / Send HubSpot calendar invite&#x20;
 
 You can either create the meeting directly in google calendar or use the AE's HubSpot calendar link (see links below) to schedule it. Using the HubSpot calendar is easier because you can pick the Prospect's timezone and see when the AE is available in their timezone.&#x20;
 
@@ -26,7 +26,7 @@ Open the AE's HubSpot calendar link in an incognito browser, otherwise HubSpot c
 
 Zach - [https://calendly.com/zach-1234](https://calendly.com/zach-1234)
 
-Mark - [https://calendly.com/mark-1431](https://calendly.com/mark-1431)
+Mark - [https://meetings.hubspot.com/mark1872](https://meetings.hubspot.com/mark1872)
 
 Sharon - [https://meetings.hubspot.com/sharon201](https://meetings.hubspot.com/sharon201)
 
