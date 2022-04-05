@@ -12,7 +12,7 @@ LGM Help Center
 
 ## How does it work?
 
-It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via email the channels you choose. During set-up you need to install the LGM widget on your computer.&#x20;
+It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via the channels you choose. During set-up you need to install the LGM widget on your computer.&#x20;
 
 The widget essentially runs a virtual machine which automates the tasks. Automation only happens when the widget it open. Fortunately all of our identities are on the same widget so even if you don't have your computer open, if someone else in the team does, automation will continue.
 
