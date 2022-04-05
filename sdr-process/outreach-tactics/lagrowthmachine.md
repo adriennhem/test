@@ -68,7 +68,11 @@ You can send your sequence to the LGM team to review it. They will give you feed
 
 ## Auto import leads from HubSpot with Zapier
 
-You can use Zapier to auto import leads from HubSpot into your LGM Audiences. I recommend you create 1 HubSpot static list per LGM Audience. Then create a Zap for each list. The Zap structure should be:
+{% hint style="success" %}
+Watch this [recording of a zoom training session on how to create your Zaps](https://drive.google.com/file/d/1lhJjsXgBcPpZwxWbDw2epYLNilltgyt1/view)
+{% endhint %}
+
+You can use Zapier to auto import leads from HubSpot into your LGM Audiences. I recommend you create 1 HubSpot static list per LGM Audience, then create a Zap for each list (see diagram below). The Zap structure should be:
 
 When a lead is added to this HubSpot List -> Add the lead to this LGM Audience
 
@@ -78,6 +82,6 @@ Here's a link to an example Zap like that:
 HubSpot to LaGrowthMachine Zap
 {% endembed %}
 
-{% embed url="https://drive.google.com/file/d/1lhJjsXgBcPpZwxWbDw2epYLNilltgyt1/view?usp=sharing" %}
-Zoom recording of how to set up Zapier for HubSpot -> La Growth Machine
-{% endembed %}
+Here's a diagram of the mapping between HubSpot lists and LGM Audiences, with the Zap in the middle. You should create 1 HubSpot List per LGM Audience, and 1 Zap for each of these pairs:
+
+![Mapping between HubSpot lists and LGM Audiences using Zapier](<../../.gitbook/assets/Screenshot 2022-04-05 at 12.21.01 PM.png>)
