@@ -82,11 +82,11 @@ Best,
 
 ### 4️⃣ Updating Hubspot CRM
 
+#### SDR Responsibilities
+
 <details>
 
-<summary><strong>SDR Responsibilities</strong></summary>
-
-**On the Contact's page:**
+<summary><strong>On the Contact's page</strong></summary>
 
 Change Contact's **Lifecycle Stage** property to: `Sales qualified lead`
 
@@ -98,9 +98,11 @@ Change **Meeting Outcome** to `Scheduled`
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-08 at 6.00.13 PM.png>)
 
+</details>
 
+<details>
 
-**On the Deal page:**
+<summary><strong>On the Deal page</strong></summary>
 
 Change the **Qualified by** property to your name.
 
@@ -112,13 +114,13 @@ Update the properties in the **Qualification** section of the deal
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-08 at 11.50.44 AM.png>)
 
-
-
 </details>
+
+#### AE Responsibilities
 
 <details>
 
-<summary>AE Responsibilities</summary>
+<summary>On the Contact's page</summary>
 
 Change Contact's **Lifecycle Stage** property to: `Opportunity`
 
@@ -130,17 +132,20 @@ If demo completed, change Meeting Outcome to "Completed".
 
 ![](<../../.gitbook/assets/Outcome (1).png>)
 
+</details>
 
+<details>
 
-If demo is a no show, change Meeting Outcome to "No Show."
+<summary>If it's a No Show</summary>
+
+If demo is a no show, change Meeting Outcome to "No Show." This automatically sends an email notification to the SDR who should try and reschedule the call.
 
 ![](<../../.gitbook/assets/Outcome (2).png>)
-
-
 
 </details>
 
 
 
+### 5️⃣ If it's a no-show
 
-
+The AE changes the **meeting outcome** to `no-show`. The SDR will get an email notification that it was a no-show. It is the SDR's responsibility to attempt to reschedule the meeting.
