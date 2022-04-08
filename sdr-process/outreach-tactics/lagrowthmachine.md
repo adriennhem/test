@@ -12,9 +12,17 @@ LGM Help Center
 
 ## How does it work?
 
-It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via the channels you choose. During set-up you need to install the LGM widget on your computer.&#x20;
+It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via the channels you choose.&#x20;
 
-The widget essentially runs a virtual machine which automates the tasks. Automation only happens when the widget it open. Fortunately all of our identities are on the same widget so even if you don't have your computer open, if someone else in the team does, automation will continue.
+#### The LGM Widget
+
+During set-up you need to [install the LGM widget](https://lagrowthmachine.com/download/mac) on your computer. The widget essentially runs a virtual machine which automates the tasks.&#x20;
+
+![](<../../.gitbook/assets/Screenshot 2022-04-08 at 11.54.08 AM.png>)
+
+{% hint style="danger" %}
+Automation of your tasks only happens when the Widget is open and running! This means if your laptop is sleeping, you're not automating. If you're travelling / offline for whatever reason, you can assign your identity to someone else’s widget [here](https://app.lagrowthmachine.com/settings/widget).
+{% endhint %}
 
 <details>
 
@@ -38,7 +46,9 @@ You can import your email signature from Gmail
 
 ## Lead Enrichment
 
-LGM will enrich your leads. Most importantly it will find their LinkedIn profile and attempt to find their phone number. For the enrichment to work you must have their first and last name, company name or company domain.
+LGM will enrich your leads when they are first added to a sequence. Most importantly it will find their LinkedIn profile and attempt to find their phone number. The phone number will only be found if you're connected with them on LinkedIn AND they are sharing their number on there.&#x20;
+
+For the enrichment to work you must have their first and last name, company name or company domain.
 
 ## Building a sequence
 
