@@ -30,6 +30,8 @@ Automation of your tasks only happens when the Widget is open and running! This 
 
 Automation will only happen during your working hours. Set this up in your Identity settings.
 
+![](<../../.gitbook/assets/Screenshot 2022-04-08 at 11.55.24 AM.png>)
+
 ![](<../../.gitbook/assets/Screenshot 2022-03-23 at 7.04.53 PM.png>)
 
 </details>

@@ -1,5 +1,7 @@
 # ✅ What is a Qualified Opportunity
 
+
+
 {% hint style="success" %}
 A **qualified opportunity** is a potential Enterprise deal _or_ deal that can grow into an Enterprise account.
 {% endhint %}
@@ -46,6 +48,12 @@ SDRs need to have 1, 2 and 3 criteria in order to consider a prospect qualified 
 * Starting to build out documentation now
 * They use a competitor like Notion and it doesn’t work for them because they need something for technical teams/technical documentation.
 * They use Confluence, ReadMe, Archbee, Document360, Docusaurus or other direct competitors.
+
+### Fringe Cases&#x20;
+
+* In some scenarios, prospects will be looking for invoicing for their billing, it can be a requirement in their business
+  * This is only available on the Enterprise plan&#x20;
+  * If they have a compelling use case/are a decent-sized company/ are looking for the business plan with 15/20 users + this may be worth connecting with an AE to discuss enterprise pricing&#x20;
 
 ## What happens to unqualified prospects?
 
