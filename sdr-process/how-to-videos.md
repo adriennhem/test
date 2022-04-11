@@ -11,6 +11,7 @@ GitBook how-tos
 Productivity
 
 * [How to set up an Email folder/label in Gmail using filters](how-to-videos.md#how-to-set-up-an-email-folder-label-in-gmail-using-filters)
+* [How to set up your HubSpot meetings and link with Zoom](how-to-videos.md#how-to-set-up-your-hubspot-calendar-and-link-with-zoom)
 
 ## GitBook
 
@@ -38,5 +39,7 @@ Productivity
 Meeting cancelled/No show Example
 {% endembed %}
 
+### How to set up your HubSpot Calendar and link with Zoom
 
+{% embed url="https://www.loom.com/share/75fee7786b0a4a2a8c5006a0eae79dcc" %}
 
