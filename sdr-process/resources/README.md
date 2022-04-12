@@ -53,5 +53,7 @@ description: Resources for improving your sales skills
 
 ## Courses
 
-Sales Impact Academy -&#x20;
+{% content-ref url="../sdr-resources/course-becoming-an-ae.md" %}
+[course-becoming-an-ae.md](../sdr-resources/course-becoming-an-ae.md)
+{% endcontent-ref %}
 
