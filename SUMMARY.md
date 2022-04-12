@@ -39,6 +39,7 @@
   * [Double Tap Inbound Play](sdr-process/outreach-tactics/double-tap-inbound-play.md)
 * [GitBook Resources 📘](sdr-process/gitbook-resources.md)
 * [SDR Resources 🏫](sdr-process/resources/README.md)
+  * [Course: Becoming an AE](sdr-process/sdr-resources/course-becoming-an-ae.md)
   * [📧 Emailing](sdr-process/sdr-resources/emailing.md)
 * [How to videos](sdr-process/how-to-videos.md)
   * [GitBook Features](https://app.gitbook.com/s/AOUfQkzsCPkwC0S4bvuT/for-and-about-customers/features)
