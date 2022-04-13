@@ -18,6 +18,8 @@ When expanding accounts and understanding they are using something else, how to 
 
 How to deal with objections related to Visitor Authentication and giving access to internal "users" as authenticated visitors? (Maybe not right time to talk about this yet as we are still testing this out) - Mark
 
+\+1 on the VA piece. Taking a look at the battle card but some more logistical reasons why they can't do this would go a long way. In the past I've brought up SSO.&#x20;
+
 
 
 ## Calls to review
