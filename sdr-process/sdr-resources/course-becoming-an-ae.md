@@ -1,4 +1,4 @@
-# Course: Becoming an AE
+# 🚀 Course: Becoming an AE
 
 {% file src="../../.gitbook/assets/BAAE Class 1_So you want to be an AE… Sure.pdf" %}
 
