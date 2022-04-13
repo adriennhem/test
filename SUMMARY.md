@@ -81,6 +81,10 @@
     * [2/3](wip-training/2022/march/2-3.md)
     * [9/3](wip-training/2022/march/9-3.md)
     * [23/3](wip-training/2022/march/23-3.md)
+    * [April](wip-training/2022/march/april/README.md)
+      * [2/3](wip-training/2022/march/april/2-3.md)
+      * [9/3](wip-training/2022/march/april/9-3.md)
+      * [23/3](wip-training/2022/march/april/23-3.md)
   * [February](wip-training/2022/february/README.md)
     * [Page 1](wip-training/2022/february/page-1.md)
 
