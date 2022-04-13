@@ -16,7 +16,7 @@ _Add your topic suggestions before the meeting here! These should be things you 
 
 When expanding accounts and understanding they are using something else, how to get better at stripping those tools. -Mark&#x20;
 
-How to deal with objections related to Visitor Authentication? (Maybe not right time to talk about this yet as we are still testing this out) - Mark
+How to deal with objections related to Visitor Authentication and giving access to internal "users" as authenticated visitors? (Maybe not right time to talk about this yet as we are still testing this out) - Mark
 
 
 
