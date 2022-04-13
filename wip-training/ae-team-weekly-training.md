@@ -30,6 +30,8 @@ __[_Applica AI -_](https://app.trywingman.com/call/62c40de1-8957-4292-b8c7-ef91e
 
 [Decide QBR](https://app.trywingman.com/call/831d7954-1cbd-476e-a51a-aa4542a96acf) - Mark&#x20;
 
+[Paris Airport](https://app.trywingman.com/call/4bc3f07f-9dc4-4836-939f-25dcd9f4d742) - Shannon & Zach
+
 ## Key takeaways
 
 _Here we note down what we've learned based on our training and use as a guide to go back to and look at things we've discussed. Repetition and practice is the way to get better._
