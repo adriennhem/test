@@ -14,9 +14,19 @@ Trainings will look different from time to time depending on the needs of the te
 
 _Add your topic suggestions before the meeting here! These should be things you want to improve on that will have the most immediate positive impact on your deals today._&#x20;
 
+When expanding accounts and understanding they are using something else, how to get better at stripping those tools. -Mark&#x20;
+
+How to deal with objections related to Visitor Authentication? (Maybe not right time to talk about this yet as we are still testing this out) - Mark
+
+
+
 ## Calls to review
 
 _Add example calls based on your topic suggestions. Please don't add random calls. Add calls with a purpose. The purpose should be to work on your topic idea and use this call to do so._
+
+__[_Applica AI -_](https://app.trywingman.com/call/62c40de1-8957-4292-b8c7-ef91e687a326) _Mark_
+
+[Decide QBR](https://app.trywingman.com/call/831d7954-1cbd-476e-a51a-aa4542a96acf) - Mark&#x20;
 
 ## Key takeaways
 
