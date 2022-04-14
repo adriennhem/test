@@ -24,7 +24,7 @@ Open the AE's HubSpot calendar link in an incognito browser, otherwise HubSpot c
 
 <summary>AEs' HubSpot calendar Links</summary>
 
-Zach - [https://calendly.com/zach-1234](https://calendly.com/zach-1234)
+Zach - [https://meetings.hubspot.com/zach-marcoulier](https://meetings.hubspot.com/zach-marcoulier)
 
 Mark - [https://meetings.hubspot.com/mark1872](https://meetings.hubspot.com/mark1872)
 
@@ -96,7 +96,7 @@ Change Contact's **Lifecycle Stage** property to: `Sales qualified lead`
 
 Change **Meeting Outcome** to `Scheduled`
 
-![](<../../.gitbook/assets/Screenshot 2022-03-08 at 6.00.13 PM.png>)
+<img src="../../.gitbook/assets/Screenshot 2022-03-08 at 6.00.13 PM.png" alt="" data-size="original">
 
 </details>
 
