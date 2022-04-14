@@ -51,6 +51,10 @@ description: Resources for improving your sales skills
 
 [Never Split the Difference: Negotiating As If Your Life Depended On It ](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)- Chris Voss
 
+Product Led Growth - Wes Bush:
+
+{% file src="../../.gitbook/assets/Product-Led Growth_ How to Build a Product That Sells Itself by Wes Bush.pdf" %}
+
 ## Courses
 
 {% content-ref url="../sdr-resources/course-becoming-an-ae.md" %}
