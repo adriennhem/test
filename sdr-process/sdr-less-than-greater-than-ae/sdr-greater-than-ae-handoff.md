@@ -16,7 +16,7 @@ You can either create the meeting directly in google calendar or use the AE's Hu
 
 * Deciding the length of the meeting to book someone in for
   1. 30 mins for Pricing calls, smaller companies where it will only be one person, companies under 50 people, semi-qualified ones.
-  2. 45mins - 1 hour for larger companies, want to see a full demo, will bring many people on the call and are super qualified.
+  2. 45mins - 1 hour for larger companies that want to see a full demo, will bring many people on the call and are super qualified.
 
 Remember to fill in the HubSpot calendar scheduling with your Prospect's name and email address - not yours. There is space for a note - put something like `"Booked in by Sophie"`, so the AE knows that this meeting was booked in via you.
 
