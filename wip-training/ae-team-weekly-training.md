@@ -1,5 +1,7 @@
 # AE team - weekly training
 
+**DO NOT EDIT.**
+
 Every week we will take time to train as a team. The best athletes play together, and train together and keep looking for ways to improve. Growth is part of our culture as an AE team. Good AEs get better over time, great AEs consistently look for ways to improve.
 
 Trainings will look different from time to time depending on the needs of the team during that time. You can suggest training ideas.
@@ -14,23 +16,13 @@ Trainings will look different from time to time depending on the needs of the te
 
 _Add your topic suggestions before the meeting here! These should be things you want to improve on that will have the most immediate positive impact on your deals today._&#x20;
 
-When expanding accounts and understanding they are using something else, how to get better at stripping those tools. -Mark&#x20;
-
-How to deal with objections related to Visitor Authentication and giving access to internal "users" as authenticated visitors? (Maybe not right time to talk about this yet as we are still testing this out) - Mark
-
-\+1 on the VA piece. Taking a look at the battle card but some more logistical reasons why they can't do this would go a long way. In the past I've brought up SSO.&#x20;
-
 
 
 ## Calls to review
 
 _Add example calls based on your topic suggestions. Please don't add random calls. Add calls with a purpose. The purpose should be to work on your topic idea and use this call to do so._
 
-__[_Applica AI -_](https://app.trywingman.com/call/62c40de1-8957-4292-b8c7-ef91e687a326) _Mark_
-
-[Decide QBR](https://app.trywingman.com/call/831d7954-1cbd-476e-a51a-aa4542a96acf) - Mark&#x20;
-
-[Paris Airport](https://app.trywingman.com/call/4bc3f07f-9dc4-4836-939f-25dcd9f4d742) - Shannon & Zach
+__
 
 ## Key takeaways
 
