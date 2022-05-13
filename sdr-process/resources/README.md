@@ -7,6 +7,7 @@ description: Resources for improving your sales skills
 🕵️ `Quick Find`&#x20;
 
 * [Email Writing](./#email-writing)
+* [Video Prospecting](./#undefined)
 * [GitLab Social Selling Guide](./#gitlab-social-selling-guide)
 * [Podcasts](./#podcasts)
 * [Newsletters](./#newsletters)
@@ -23,6 +24,10 @@ description: Resources for improving your sales skills
 {% content-ref url="../sdr-resources/emailing.md" %}
 [emailing.md](../sdr-resources/emailing.md)
 {% endcontent-ref %}
+
+## Video Prospecting
+
+{% file src="../../.gitbook/assets/Hubspot Vidyard - Video Prospecting Scripts.pdf" %}
 
 ## ​​🦊GitLab Social Selling Guide <a href="#gitlab-social-selling-guide" id="gitlab-social-selling-guide"></a>
 
