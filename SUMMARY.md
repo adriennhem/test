@@ -71,7 +71,7 @@
 
 * [Order Forms](procurement/page-1.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
-* [Handoff to CSM](https://app.gitbook.com/s/L066cnaaaKAI4S004XpR/working-with-the-sales-team/internal-handoff)
+*
 
 ## 🏋♀ WIP - Training&#x20;
 
