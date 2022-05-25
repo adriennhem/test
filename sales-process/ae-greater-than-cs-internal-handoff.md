@@ -17,4 +17,16 @@ See video for a breakdown handoff to CS
 ![](<../.gitbook/assets/Screenshot 2022-03-21 at 3.38.53 PM.png>)
 
 * Intro to CSM.
+  * Email in a separate thread.
+
+Hi X,
+
+I would like to introduce your Customer Success Manager, NAME (cc'd) who will be able to assist with your onboarding with GitBook. They will be reaching out to schedule a meeting for your onboarding sessions to help set up your documentation.\
+\
+We look forward to having you onboarded successfully with GitBook.
+
+Any questions in the meantime, please feel free to reach out.\
+\
+Best,
+
 * Closed won.
