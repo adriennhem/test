@@ -78,6 +78,11 @@
 * [AE team - weekly training](wip-training/ae-team-weekly-training.md)
 * [Template](wip-training/template.md)
 * [2022](wip-training/2022/README.md)
+  * [May](wip-training/2022/may/README.md)
+    * [4/5](wip-training/2022/may/4-5.md)
+    * [11/5](wip-training/2022/may/11-5.md)
+    * [18/5](wip-training/2022/may/18-5.md)
+    * [25/5](wip-training/2022/may/25-5.md)
   * [April](wip-training/2022/april/README.md)
     * [13/4](wip-training/2022/april/13-4.md)
   * [March](wip-training/2022/march/README.md)
@@ -86,11 +91,6 @@
     * [23/3](wip-training/2022/march/23-3.md)
   * [February](wip-training/2022/february/README.md)
     * [Page 1](wip-training/2022/february/page-1.md)
-  * [May](wip-training/2022/may/README.md)
-    * [4/5](wip-training/2022/may/4-5.md)
-    * [11/5](wip-training/2022/may/11-5.md)
-    * [18/5](wip-training/2022/may/18-5.md)
-    * [25/5](wip-training/2022/may/25-5.md)
 
 ## 🛩Onboarding <a href="#onboarding-1" id="onboarding-1"></a>
 
