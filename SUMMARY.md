@@ -90,6 +90,7 @@
     * [4/5](wip-training/2022/may/4-5.md)
     * [11/5](wip-training/2022/may/11-5.md)
     * [18/5](wip-training/2022/may/18-5.md)
+    * [25/5](wip-training/2022/may/25-5.md)
 
 ## 🛩Onboarding <a href="#onboarding-1" id="onboarding-1"></a>
 
