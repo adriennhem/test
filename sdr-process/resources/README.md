@@ -44,7 +44,7 @@ description: Resources for improving your sales skills
 
 ## ​​📩 Newsletters <a href="#newsletters" id="newsletters"></a>
 
-​[The SDR Newsletter](https://www.thesdrnewsletter.com) - This newsletter brings together tips, stories, tools, and information to make your life as an SDR easier. Every Tuesday.
+​[The SDR Newsletter](https://www.thesdrnewsletter.com/) - This newsletter brings together tips, stories, tools, and information to make your life as an SDR easier. Every Tuesday.
 
 ## Linkedin
 
