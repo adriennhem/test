@@ -80,6 +80,7 @@
 * [2022](wip-training/2022/README.md)
   * [June](wip-training/2022/june/README.md)
     * [8/6](wip-training/2022/june/8-6.md)
+    * [15/6](wip-training/2022/june/15-6.md)
   * [May](wip-training/2022/may/README.md)
     * [4/5](wip-training/2022/may/4-5.md)
     * [11/5](wip-training/2022/may/11-5.md)
