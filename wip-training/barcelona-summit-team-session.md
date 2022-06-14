@@ -2,9 +2,20 @@
 
 ### Expansion session
 
+Goal of this session is to understand what an ICP account looks like, understand how to scope for expansion potential and the strategy on how and who to outreach to qualify and upsell them or expand.
+
+* Difference between Expansion & Upsell
 * How to identify an ICP expansion account
 * Outreach
 * Communications/Messaging
+
+#### Exercise: Choose one of these accounts
+
+* Identify if they are ICP (company size, technical teams, etc.
+* Identify if there is expansion potential and why (what teams, use cases, etc.)
+* Build an outreach strategy and identify key decision makers and influencers&#x20;
+* Build the messaging and outreach methods
+* Based on all this, create an action plan to expand that account.
 
 #### Example accounts
 
@@ -27,3 +38,8 @@ MoonPay
 
 * [GitBook Org](https://app.hubspot.com/contacts/8443689/record/2-1138478/1293518728/)
 * [SN10](https://app.gitbook.com/admin/o/UVzU3d99T3JUIuQOhkmW)
+
+So Energy
+
+* [GitBook Org](https://app.hubspot.com/contacts/8443689/record/2-1138478/1108981782/)
+* [SN10](https://app.gitbook.com/admin/o/nHpoHZSTAmURk5jVpWP3)
