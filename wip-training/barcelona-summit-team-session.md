@@ -6,7 +6,7 @@
 * Outreach
 * Communications/Messaging
 
-Example account
+#### Example accounts
 
 Panther
 
@@ -22,3 +22,8 @@ Cal.com
 
 * [GitBook Org](https://app.hubspot.com/contacts/8443689/record/2-1138478/1280451347)
 * [SN10](https://app.gitbook.com/admin/o/6snd8PyPYMhg0wUw6CeQ)
+
+MoonPay
+
+* [GitBook Org](https://app.hubspot.com/contacts/8443689/record/2-1138478/1293518728/)
+* [SN10](https://app.gitbook.com/admin/o/UVzU3d99T3JUIuQOhkmW)
