@@ -75,6 +75,7 @@
 
 ## 🏋♀ WIP - Training&#x20;
 
+* [Barcelona Summit - Team session](wip-training/barcelona-summit-team-session.md)
 * [AE team - weekly training](wip-training/ae-team-weekly-training.md)
 * [Template](wip-training/template.md)
 * [2022](wip-training/2022/README.md)
