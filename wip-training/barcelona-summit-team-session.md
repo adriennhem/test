@@ -2,7 +2,7 @@
 
 ### Expansion session
 
-*
+* How to identify an ICP expansion account
 * Outreach
 * Communications/Messaging
 
