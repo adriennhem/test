@@ -46,7 +46,7 @@ MESSAGING:
 
 
 
-IT Manager:
+IT Manager: (The IT Manager Karl will be managing GB from an IT perspective.)
 
 * How to manage GB, intro's to other teams, etc.&#x20;
 
