@@ -32,3 +32,25 @@ Look at their website for open jobs. Get alerts when these people are hired.&#x2
 
 Have trainings/in-product prompts to enable users to create documentation.&#x20;
 
+Ask decision-makers for referrals (internal and external).&#x20;
+
+
+
+MESSAGING:
+
+
+
+IT Manager:
+
+
+
+Director of Engineering:
+
+
+
+Engineering Team
+
+
+
+Product team:
+
