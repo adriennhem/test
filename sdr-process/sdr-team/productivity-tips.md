@@ -2,7 +2,7 @@
 
 #### Add a secondary timezone to your calendar
 
-1. On your computer, open [Google Calendar](https://calendar.google.com/).
+1. On your computer, open [Google Calendar](https://calendar.google.com).
 2. In the top right, click Settings ![Settings](https://lh3.googleusercontent.com/PzFeiQQaPASuntRuvWiXoqZjQqUj0s0q0w\_jI4Nx9vL6x7rGmmS9f-xQr1Kj9S91WMlm=h36) ![and then](https://lh3.googleusercontent.com/QbWcYKta5vh\_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) **Settings**.
 3. In the "Time Zone" section, click **Display secondary time zone**.
 4. Click Secondary time zone ![Down Arrow](https://storage.googleapis.com/support-kms-prod/76B4941B08D1516AC7336D5A3C2E7914920D) ![and then](https://lh3.googleusercontent.com/QbWcYKta5vh\_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) choose your time zone.
