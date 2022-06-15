@@ -38,21 +38,37 @@ Ask decision-makers for referrals (internal and external).&#x20;
 
 Map the account. Identify decision makers
 
+Find out why head of eng and other users have guest permissions in Sn10. Educate Karl about this and get them to re-assign their permissions to editor or reader. The [Head of Eng](https://www.linkedin.com/in/marc-tatham-22753811/?originalSubdomain=es) has no access so unlikely to see value of GitBook.&#x20;
+
+
+
 MESSAGING:
 
 
 
 IT Manager:
 
+* How to manage GB, intro's to other teams, etc.&#x20;
 
+Engineering Leadership (2-3 people):
 
-Director of Engineering:
-
-
+* Big picture messaging. Value of GitBook. Additional use cases
 
 Engineering Team
 
+* Outreach to set up training for the team. Enablement focused.&#x20;
+
+Product team (Darren King , Head of Product):
+
+* Messaging to educate them around GitBook. Examples of product documentation in GitBook.&#x20;
+
+Action Plan:
 
 
-Product team:
+
+Gifts to the head of engineering/head of product and new Engineering director.&#x20;
+
+Message members of Eng team in GitBook to enable them prior to Director starting.&#x20;
+
+
 
