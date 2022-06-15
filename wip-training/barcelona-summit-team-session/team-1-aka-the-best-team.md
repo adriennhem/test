@@ -7,7 +7,7 @@
 
 
 
-* Identify if they are ICP (company size, technical teams, etc.
+* Identify if they are ICP (company size, technical teams, etc.)
 
 
 
@@ -16,4 +16,10 @@
 * Build the messaging and outreach methods
 * Based on all this, create an action plan to expand that account.
 
-LinkedIn alert&#x20;
+LinkedIn alert for Manager/Director of Engineering.
+
+As soon as they are hired, we send a gift and message.
+
+Build a relationship
+
+Create&#x20;
