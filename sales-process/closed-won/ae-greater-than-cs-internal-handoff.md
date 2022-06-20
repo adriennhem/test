@@ -10,11 +10,11 @@ See video for a breakdown handoff to CS
 * Add all the contacts you've spoken to the deal.
 * Fill out the [AE <> CS Handoff notes](https://app.hubspot.com/playbooks/8443689/compose/658746) Playbook on the bottom left.
 
-![](<../.gitbook/assets/Screenshot 2022-03-21 at 3.36.35 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-03-21 at 3.36.35 PM.png>)
 
 * **Tag** [Natasza Pol](https://app.gitbook.com/u/bHyJp7tVNcRD1mPuHxX9g9XbvFJ3 "mention") on the deal in the notes you just filled out and attach the PDF of the signed order form.
 
-![](<../.gitbook/assets/Screenshot 2022-03-21 at 3.38.53 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-03-21 at 3.38.53 PM.png>)
 
 * Intro to CSM.
   * Email in a separate thread.
