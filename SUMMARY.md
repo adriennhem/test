@@ -72,9 +72,8 @@
 
 * [Order Forms](procurement/page-1.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
-*
 
-## 🏋♀ WIP - Training&#x20;
+## 🏋♀ 🏋♀ WIP - Training
 
 * [Barcelona Summit - Team session](wip-training/barcelona-summit-team-session/README.md)
   * [Team 1 aka the best team](wip-training/barcelona-summit-team-session/team-1-aka-the-best-team.md)
@@ -106,3 +105,7 @@
   * [Set up Slack notif in Hubspot](onboarding-1/onboarding/set-up-slack-notif-in-hubspot.md)
 * [Start, Stop, Continues](onboarding-1/untitled/README.md)
   * [Account Executive](onboarding-1/untitled/mark.md)
+
+***
+
+* [Security Deals](security-deals.md)

@@ -1,6 +1,6 @@
 # 🔥 LaGrowthMachine
 
-## What is it?&#x20;
+## What is it?
 
 We use LaGrowthMachine (LGM) to run multichannel sequences. You can build a sequence including email, LinkedIn (including voice notes) and Twitter touches.
 
@@ -12,11 +12,11 @@ LGM Help Center
 
 ## How does it work?
 
-It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via the channels you choose.&#x20;
+It works by connecting your LinkedIn & Gmail accounts (and Twitter if you're into that), into a LGM Identity. This Identity is then used to automatically reach out to your leads via the channels you choose.
 
 #### The LGM Widget
 
-During set-up you need to [install the LGM widget](https://lagrowthmachine.com/download/mac) on your computer. The widget essentially runs a virtual machine which automates the tasks.&#x20;
+During set-up you need to [install the LGM widget](https://lagrowthmachine.com/download/mac) on your computer. The widget essentially runs a virtual machine which automates the tasks.
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-08 at 11.54.08 AM.png>)
 
@@ -30,9 +30,9 @@ Automation of your tasks only happens when the Widget is open and running! This 
 
 Automation will only happen during your working hours. Set this up in your Identity settings.
 
-![](<../../.gitbook/assets/Screenshot 2022-04-08 at 11.55.24 AM.png>)
+<img src="../../.gitbook/assets/Screenshot 2022-04-08 at 11.55.24 AM.png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/Screenshot 2022-03-23 at 7.04.53 PM.png>)
+<img src="../../.gitbook/assets/Screenshot 2022-03-23 at 7.04.53 PM.png" alt="" data-size="original">
 
 </details>
 
@@ -42,19 +42,19 @@ Automation will only happen during your working hours. Set this up in your Ident
 
 You can import your email signature from Gmail
 
-![](<../../.gitbook/assets/Screenshot 2022-03-23 at 7.06.26 PM.png>)
+<img src="../../.gitbook/assets/Screenshot 2022-03-23 at 7.06.26 PM.png" alt="" data-size="original">
 
 </details>
 
 ## Lead Enrichment
 
-LGM will enrich your leads when they are first added to a sequence. Most importantly it will find their LinkedIn profile and attempt to find their phone number. The phone number will only be found if you're connected with them on LinkedIn AND they are sharing their number on there.&#x20;
+LGM will enrich your leads when they are first added to a sequence. Most importantly it will find their LinkedIn profile and attempt to find their phone number. The phone number will only be found if you're connected with them on LinkedIn AND they are sharing their number on there.
 
 For the enrichment to work you must have their first and last name, company name or company domain.
 
 ## Building a sequence
 
-You can see the team's existing sequences in LGM (it's the paper plane ✈️ symbol in the left nav bar). A good idea to start is by duplicating one of these and editing it.&#x20;
+You can see the team's existing sequences in LGM (it's the paper plane ✈️ symbol in the left nav bar). A good idea to start is by duplicating one of these and editing it.
 
 LGM run a group onboarding webinar every Tuesday. I highly recommend you attend it. RSVP to the next session below 👇
 
