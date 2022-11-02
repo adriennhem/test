@@ -55,7 +55,7 @@
   * [Deal qualification](sales-process/sales-process/deal-qualification.md)
   * [Discovery call](sales-process/sales-process/discovery-call-checklist.md)
 * [Closed won](sales-process/closed-won/README.md)
-  * [✨ AE > CS Internal Handoff](sales-process/closed-won/ae-greater-than-cs-internal-handoff.md)
+  * [✨ Before hitting closed won](sales-process/closed-won/ae-greater-than-cs-internal-handoff.md)
 * [Commissions Payouts](sales-process/commissions-payouts.md)
 * [Sales FAQ's](sales-process/sales-faqs.md)
 
