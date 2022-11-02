@@ -6,7 +6,9 @@
 * Fill out all the rest of the mandatory fields in the deal on HubSpot (Hubspot will tell you if you miss any)
 * Make sure the primary contacts are associated with the deal
 * If the signed order form or PO isn't already attached via PandaDoc integration, attach it
-* Check [this google sheet](https://docs.google.com/spreadsheets/d/16SGfDdRSwSkDDGznS6EdWn\_0FqEwtajPchDdRotPzHg/edit?usp=sharing) to see who's up for CSM assignment, unless there are extenuating circumstances that would make one CSM the choice (use case, previous relationship, time zones)
+* Assign CSM
+  * Are there extenuating circumstances and you think it should go to a specific CSM (use case, previous relationship, time zones), assign it to them.
+  * If not, check [this google sheet](https://docs.google.com/spreadsheets/d/16SGfDdRSwSkDDGznS6EdWn\_0FqEwtajPchDdRotPzHg/edit?usp=sharing) to see who's up for CSM assignment (the highest name in column A). Once you've assigned, delete the row in the google sheet.
 * Fill out the [AE <> CS Handoff notes](https://app.hubspot.com/playbooks/8443689/compose/658746) Playbook found on the bottom of right-hand sidebar in the deal record, see below Loom for details but it's pretty straightforward
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-21 at 3.36.35 PM.png>)
