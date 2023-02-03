@@ -71,8 +71,8 @@
 ## 🤝 procurement
 
 * [Order Forms](procurement/page-1.md)
-* [Legal & security reviews](procurement/legal-and-security-reviews.md)
 * [Registering as a vendor](procurement/registering-as-a-vendor.md)
+* [Legal & security reviews](procurement/legal-and-security-reviews.md)
 
 ## 🏋♀ 🏋♀ WIP - Training
 
