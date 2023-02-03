@@ -19,7 +19,7 @@ Productivity
 
 {% embed url="https://www.loom.com/share/fdc2a6f90bdf4b68bef5a1f099a59d9f" %}
 
-![Change in userface](<../.gitbook/assets/image (1).png>)
+![Change in userface](<../.gitbook/assets/image (1) (2).png>)
 
 * ''Add trial'' is no longer under the ''add coupon'' button, it is now located at the bottom of the page as ''free trial days''
 
@@ -33,7 +33,7 @@ Productivity
 
 ## Productivity
 
-### How to set up an Email folder/label in Gmail using filters&#x20;
+### How to set up an Email folder/label in Gmail using filters
 
 {% embed url="https://www.loom.com/share/ca2f125007f64d04b519f5881537d604" %}
 Meeting cancelled/No show Example
@@ -42,4 +42,3 @@ Meeting cancelled/No show Example
 ### How to set up your HubSpot Calendar and link with Zoom
 
 {% embed url="https://www.loom.com/share/75fee7786b0a4a2a8c5006a0eae79dcc" %}
-

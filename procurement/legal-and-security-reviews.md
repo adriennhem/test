@@ -20,6 +20,6 @@ As you fill out the review, please create a new tab in the master questionnaire 
 
 When you've finished your pass and you have outstanding questions that you can't answer, organise the tab so the questions that need help are clustered. You can then tag an engineer for support answering the final questions.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+{% embed url="https://docs.google.com/spreadsheets/d/1z0uiOjSp-OH3iZo-KzJZeGQA_OQrWqqHzbvH78BaQNQ/edit#gid=592283312" %}

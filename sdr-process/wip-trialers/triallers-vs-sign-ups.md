@@ -7,7 +7,7 @@ description: Explains the different between a trialler and a sign-up
 * When someone signs up to GitBook they do so with their email Address, this sends them a magic-link to sign into their account and set it up
 * This brings them to the following option: to choose 'Just Me' or 'My Team'
 
-![Option when a user has activated their magiclink](<../../.gitbook/assets/image (2).png>)
+![Option when a user has activated their magiclink](../../.gitbook/assets/image.png)
 
 1. 'Just me' creates a **sign-up,** this signs the user up to a personal plan with GitBook, this is a 'personal account'
    * The Free Personal plan offers up to 10 private or public spaces
